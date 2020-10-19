@@ -39,6 +39,17 @@
         "example",
         "tutorial"
       ]
+    },
+    {
+      "login": "Achiraisuru",
+      "name": "Isuru Bandara",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/55431705?v=4",
+      "profile": "https://github.com/Achiraisuru",
+      "contributions": [
+        "doc",
+        "example",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
