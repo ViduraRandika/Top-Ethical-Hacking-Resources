@@ -49,6 +49,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 | [Hydra](https://github.com/vanhauser-thc/thc-hydra) | Hydra is a parallelized network logon cracker. Hydra works by using different approaches of generating possible passwords, such as wordlist attacks, brute-force attacks and others. | [Brute force attack with Hydra](https://medium.com/@gtrekter/brute-force-attack-with-hydra-and-kali-linux-3c4ede55d119)|
+| [Medusa](https://www.securedyou.com/medusa-free-download-parallel-password-cracker-tool/) | Medusa is an online password-cracking tool similar to THC Hydra. It claims to be a speedy parallel, modular and login brute-forcing tool. It supports HTTP, FTP, CVS, AFP, IMAP, MS SQL, MYSQL, NCP, NNTP, POP3, PostgreSQL, pcAnywhere, rlogin, SMB, rsh, SMTP, SNMP, SSH, SVN, VNC, VmAuthd and Telnet | [Medusa Parallel Network Login Auditor](http://foofus.net/goons/jmk/medusa/medusa.html)|
 
 
 ## Contributors ✨
