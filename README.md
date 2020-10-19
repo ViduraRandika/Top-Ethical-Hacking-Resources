@@ -28,6 +28,24 @@ Stay up-to-date with the latest and greatest ethical hacking resources.
 * [Trojan Attacks](#trojan-attacks)
 * [Other](#other)
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+=======
+
+## Wireless Hacking
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [Kismet](https://www.kismetwireless.net/) | Kismet is a powerful tool for wireless sniffing that is found in Kali distribution | [How to use kismet](https://null-byte.wonderhowto.com/how-to/use-kismet-watch-wi-fi-user-activity-through-walls-0182214/)
+
+## Password Hacking
+
+#### Dictionary Attack
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [Hydra](https://github.com/vanhauser-thc/thc-hydra) | Hydra is a parallelized network logon cracker. Hydra works by using different approaches of generating possible passwords, such as wordlist attacks, brute-force attacks and others. | [Brute force attack with Hydra](https://medium.com/@gtrekter/brute-force-attack-with-hydra-and-kali-linux-3c4ede55d119)
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -45,4 +63,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
