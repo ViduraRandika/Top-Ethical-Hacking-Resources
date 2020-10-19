@@ -1,5 +1,5 @@
-# Top-Ethical-Hacking-Tools-and-Resources
-Stay up-to-date with the latest and greatest ethical hacking tools and resources.
+# Top-Ethical-Hacking-Resources
+Stay up-to-date with the latest and greatest ethical hacking resources.
 
 ## Please read the [Guidelines for contributors](./contribution.md) first
 ## Table of contents
