@@ -58,6 +58,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [aircrack-ng](http://www.aircrack-ng.org/) | Aircrack-ng is a complete suite of tools to assess WiFi network security. All tools are command line which allows for heavy  scripting.A lot of GUIs have taken advantage of this feature. It works primarily Linux but also Windows, OS X,FreeBSD,OpenBSD,NetBSD as well as Solaris and even eComStation2.| [How to use aircrack-ng](https://www.aircrack-ng.org/doku.php?id=tutorial)|
 | [John the Ripper](https://www.openwall.com/john/) | John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types.|  [Brute force attack with John the Ripper](https://medium.com/@sc015020/how-to-crack-passwords-with-john-the-ripper-fdb98449ff1)|
 
+#### Hybrid Dictionary Attack
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [hashcat](https://hashcat.net/hashcat/) | Hashcat, which supports five separate attack modes for over 200 highly optimized hashing algorithms, is the world's best and most advanced password recovery utility. Hashcat currently supports Linux, Windows, and OSX CPUs, GPUs, and other hardware accelerators, and has facilities to allow distributed password cracking.| [How to use HashCat](https://www.youtube.com/watch?v=m0AGSO1LDJs)|
+| [windows_password_recovery_hybrid_dictionary_attack](https://www.passcape.com/windows_password_recovery_hybrid_dictionary_attack) | Windows Password Recovery distribution kit comes with extended sets of password mutation rules:<ul><li>hybrid_rules/english_words.ini file contains basic rules for English passwords.</li><li>hybrid_rules/nonenglish_words.ini holds common rules for non-Eglish passwords.</li><li>hybrid_rules/simple_dates.ini - a lot of rules with dates, months, seasons, etc.</li><li>hybrid_rules/l33t.ini - rules to freak words (based on the leet dictionary).</li></ul> For example, password->p@$$w0rd|  [Tutorial in passcape official website](https://www.passcape.com/windows_password_recovery_hybrid_dictionary_attack)|
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
