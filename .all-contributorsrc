@@ -72,6 +72,17 @@
         "example",
         "tutorial"
       ]
+    },
+    {
+      "login": "Hansajith98",
+      "name": "Hansajith",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54827047?v=4",
+      "profile": "https://github.com/Hansajith98",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
