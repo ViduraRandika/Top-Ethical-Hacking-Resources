@@ -54,11 +54,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Selenium](https://www.selenium.dev/)|One of the well-known and popular tools among the testers is Selenium. It is an open-source tool that helps with browser automation. Selenium eases the pain to check whether an application works fine across the browsers and various versions.|[The Selenium Browser Automation Project](https://www.selenium.dev/documentation/en/)|
 |[Appium](http://appium.io/)| Selenium doesn’t suffice mobile app testing, and thus Appium is present. It acts as a sweet companion to help extensive mobile testing. Appium works for cross platforms like iOS and Android.|[Getting Started Appium](http://appium.io/docs/en/about-appium/getting-started/index.html)|
 
+
 ## SQL Injection
 
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-| [SQLMap](http://sqlmap.org/) |SQLmap is an open-source tool used in penetration testing to detect and exploit SQL injection flaws. SQLmap automates the process of detecting and exploiting SQL injection. SQL Injection attacks can take control of databases that utilize SQL.SQLmap used by WhiteHat and BlackHat hackers. | [How to use SQLMap](https://hackertarget.com/sqlmap-tutorial/)|
+|[SQLmap](https://github.com/sqlmapproject/sqlmap)|SQLMap is the open source SQL injection tool and most popular among all SQL injection tools available. This tool makes it easy to exploit the SQL injection vulnerability of a web application and take over the database server. It comes with a powerful detection engine which can easily detect most of the SQL injection related vulnerabilities.|[SQLmap Tutorial](https://hackertarget.com/sqlmap-tutorial/)|
+|[SQLninja](http://sqlninja.sourceforge.net/)|SQLninja is a SQL injection tool that exploits web applications that use a SQL server as a database server. This tool may not find the injection place at first. But if it is discovered, it can easily automate the exploitation process and extract the information from the database server.|[Sqlninja user manual](http://sqlninja.sourceforge.net/sqlninja-howto.html)|
 
 ## DDOS Attacks
 
