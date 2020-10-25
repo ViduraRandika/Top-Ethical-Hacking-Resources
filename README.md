@@ -42,6 +42,15 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [Wifite](https://github.com/derv82/wifite2) |This tool is fantastic and being able to attack multiple WEP, WPA, and WPS encrypted networks in a row. It’s fast becoming the industry’s favorite WiFi Hacking Tool for Pentesters. | [How to use Wifite](https://github.com/derv82/wifite2)|
 
 
+## Pen testing
+
+#### Grey Box
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Selenium](https://www.selenium.dev/)|One of the well-known and popular tools among the testers is Selenium. It is an open-source tool that helps with browser automation. Selenium eases the pain to check whether an application works fine across the browsers and various versions.|[The Selenium Browser Automation Project](https://www.selenium.dev/documentation/en/)|
+
+
 ## Password Hacking
 
 #### Dictionary Attack
