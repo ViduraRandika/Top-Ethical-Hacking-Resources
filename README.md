@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -60,6 +60,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [L0phtCrack](https://www.l0phtcrack.com/) | L0phtCrack is a password audit and recovery program originally developed by Mudge from L0pht Heavy Industries. Using dictionaries, brute-force, hybrid attacks, and rainbow tables, it is used to test password strength and also to recover missing Microsoft Windows passwords.|  [Quick Start with the L0phtCrack 7](http://www.l0phtcrack.com/doc/QuickStartwiththeL0phtCrack7Wiza.html)|
 | [Rainbowcrack](http://project-rainbowcrack.com/) | RainbowCrack is a computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.|  [Brute force attack with Rainbowcrack](https://www.darknet.org.uk/2006/02/rainbowcrack-how-to-use-rainbow-crack-rainbow-tables/)|
 
+#### Hybrid Dictionary Attack
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [hashcat](https://hashcat.net/hashcat/) | Hashcat, which supports five separate attack modes for over 200 highly optimized hashing algorithms, is the world's best and most advanced password recovery utility. Hashcat currently supports Linux, Windows, and OSX CPUs, GPUs, and other hardware accelerators, and has facilities to allow distributed password cracking.| [How to use HashCat](https://www.youtube.com/watch?v=m0AGSO1LDJs)|
+| [windows_password_recovery_hybrid_dictionary_attack](https://www.passcape.com/windows_password_recovery_hybrid_dictionary_attack) | Windows Password Recovery distribution kit comes with extended sets of password mutation rules:<ul><li>hybrid_rules/english_words.ini file contains basic rules for English passwords.</li><li>hybrid_rules/nonenglish_words.ini holds common rules for non-Eglish passwords.</li><li>hybrid_rules/simple_dates.ini - a lot of rules with dates, months, seasons, etc.</li><li>hybrid_rules/l33t.ini - rules to freak words (based on the leet dictionary).</li></ul> For example, password->p@$$w0rd|  [Tutorial in passcape official website](https://www.passcape.com/windows_password_recovery_hybrid_dictionary_attack)|
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -74,6 +81,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/RandilCPiumantha"><img src="https://avatars1.githubusercontent.com/u/56807975?v=4" width="100px;" alt=""/><br /><sub><b>RandilCPiumantha</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=RandilCPiumantha" title="Documentation">📖</a> <a href="#example-RandilCPiumantha" title="Examples">💡</a> <a href="#tutorial-RandilCPiumantha" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars1.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Isuru Bandara</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Achiraisuru" title="Documentation">📖</a> <a href="#example-Achiraisuru" title="Examples">💡</a> <a href="#tutorial-Achiraisuru" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars2.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=DilshanUdawaththa" title="Documentation">📖</a> <a href="#example-DilshanUdawaththa" title="Examples">💡</a> <a href="#tutorial-DilshanUdawaththa" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/Prabath03Dot"><img src="https://avatars1.githubusercontent.com/u/48862955?v=4" width="100px;" alt=""/><br /><sub><b>Prabath96</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Prabath03Dot" title="Documentation">📖</a> <a href="#example-Prabath03Dot" title="Examples">💡</a> <a href="#tutorial-Prabath03Dot" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/Hansajith98"><img src="https://avatars3.githubusercontent.com/u/54827047?v=4" width="100px;" alt=""/><br /><sub><b>Hansajith</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Hansajith98" title="Documentation">📖</a> <a href="#tutorial-Hansajith98" title="Tutorials">✅</a> <a href="#example-Hansajith98" title="Examples">💡</a></td>
   </tr>
 </table>
 
