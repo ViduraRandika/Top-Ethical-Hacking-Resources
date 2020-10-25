@@ -83,6 +83,17 @@
         "tutorial",
         "example"
       ]
+    },
+    {
+      "login": "amaRanaweera",
+      "name": "Amasha Ranaweera",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/73416084?v=4",
+      "profile": "https://github.com/amaRanaweera",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
