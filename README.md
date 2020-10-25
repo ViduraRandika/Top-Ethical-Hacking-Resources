@@ -41,6 +41,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [CloudCracker](https://crack.sh/) |CloudCracker is the online password cracking tool for cracking WPA protected wi-fi networks. This tool can also be used to crack different password hashes. | [How to use CloudCracker](https://crack.sh/get-cracking/)|
 | [Wifite](https://github.com/derv82/wifite2) |This tool is fantastic and being able to attack multiple WEP, WPA, and WPS encrypted networks in a row. It’s fast becoming the industry’s favorite WiFi Hacking Tool for Pentesters. | [How to use Wifite](https://github.com/derv82/wifite2)|
 
+
 ## Pen Testing
 
 #### Black Box
@@ -50,14 +51,15 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Netsparker](https://www.netsparker.com/)|A common automated web program for black box and all penetration testing is the Netsparker Security Scanner. From cross-site scripting to SQL injection, the program can recognize anything from This tool can be used by developers on blogs , online servers, and web apps.|[How Netsparker Can Help](https://www.netsparker.com/external-vulnerability-scanner/black-box-scanner/)|
 |[Wireshark](https://www.wireshark.org/)|Once known as Ethereal 0.2.0, with 600 contributors, Wireshark is an award-winning network analyzer. You can do BlackBox pen testing with wireshark easily. The tool is open-source and is available for Windows, Solaris, FreeBSD, and Debian, among other platforms.|[Black Box Network Penetration Testing Walkthrough](https://resources.infosecinstitute.com/blackbox-network-penetration-testing-walkthrough/)|
 |[Metasploit framework](https://www.metasploit.com/)| The architecture for Metasploit is structured into modules. Exploit is the first sort of module. To take advantage of device vulnerabilities, Exploit modules are built. Buffer overload, program exploits and insertion of code are examples. Auxiliary modules carry out acts that do not take advantage of vulnerabilities explicitly.|[Introduction to Penetration Testing & Metasploit With Windows](https://blog.eduonix.com/networking-and-security/penetration-testing-metasploit-windows/)|
+|[Selenium](https://www.selenium.dev/)|One of the well-known and popular tools among the testers is Selenium. It is an open-source tool that helps with browser automation. Selenium eases the pain to check whether an application works fine across the browsers and various versions.|[The Selenium Browser Automation Project](https://www.selenium.dev/documentation/en/)|
 
-## Pen testing
+## DDOS Attacks
 
-#### Grey Box
+#### Volume-based Attacks
 
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-|[Selenium](https://www.selenium.dev/)|One of the well-known and popular tools among the testers is Selenium. It is an open-source tool that helps with browser automation. Selenium eases the pain to check whether an application works fine across the browsers and various versions.|[The Selenium Browser Automation Project](https://www.selenium.dev/documentation/en/)|
+| [LOIC](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
 
 
 ## Password Hacking
