@@ -47,7 +47,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-| [LOIC](ttps://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
+| [LOIC](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
 
 ## Password Hacking
 
