@@ -94,6 +94,17 @@
         "tutorial",
         "example"
       ]
+    },
+    {
+      "login": "charithroshan",
+      "name": "charithroshan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43004672?v=4",
+      "profile": "https://github.com/charithroshan",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
