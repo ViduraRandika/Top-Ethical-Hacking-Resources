@@ -49,6 +49,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[Selenium](https://www.selenium.dev/)|One of the well-known and popular tools among the testers is Selenium. It is an open-source tool that helps with browser automation. Selenium eases the pain to check whether an application works fine across the browsers and various versions.|[The Selenium Browser Automation Project](https://www.selenium.dev/documentation/en/)|
+|[Appium](http://appium.io/)| Selenium doesn’t suffice mobile app testing, and thus Appium is present. It acts as a sweet companion to help extensive mobile testing. Appium works for cross platforms like iOS and Android.|[Getting Started Appium](http://appium.io/docs/en/about-appium/getting-started/index.html)|
 
 
 ## Password Hacking
