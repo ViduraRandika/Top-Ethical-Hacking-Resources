@@ -105,6 +105,17 @@
         "tutorial",
         "example"
       ]
+    },
+    {
+      "login": "PiyumiThathsarani",
+      "name": "PiyumiThathsarani",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58032088?v=4",
+      "profile": "https://github.com/PiyumiThathsarani",
+      "contributions": [
+        "doc",
+        "example",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
