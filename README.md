@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -42,6 +42,52 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [Wifite](https://github.com/derv82/wifite2) |This tool is fantastic and being able to attack multiple WEP, WPA, and WPS encrypted networks in a row. It’s fast becoming the industry’s favorite WiFi Hacking Tool for Pentesters. | [How to use Wifite](https://github.com/derv82/wifite2)|
 
 
+## Pen Testing
+
+#### Black Box
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Netsparker](https://www.netsparker.com/)|A common automated web program for black box and all penetration testing is the Netsparker Security Scanner. From cross-site scripting to SQL injection, the program can recognize anything from This tool can be used by developers on blogs , online servers, and web apps.|[How Netsparker Can Help](https://www.netsparker.com/external-vulnerability-scanner/black-box-scanner/)|
+|[Wireshark](https://www.wireshark.org/)|Once known as Ethereal 0.2.0, with 600 contributors, Wireshark is an award-winning network analyzer. You can do BlackBox pen testing with wireshark easily. The tool is open-source and is available for Windows, Solaris, FreeBSD, and Debian, among other platforms.|[Black Box Network Penetration Testing Walkthrough](https://resources.infosecinstitute.com/blackbox-network-penetration-testing-walkthrough/)|
+|[Metasploit framework](https://www.metasploit.com/)| The architecture for Metasploit is structured into modules. Exploit is the first sort of module. To take advantage of device vulnerabilities, Exploit modules are built. Buffer overload, program exploits and insertion of code are examples. Auxiliary modules carry out acts that do not take advantage of vulnerabilities explicitly.|[Introduction to Penetration Testing & Metasploit With Windows](https://blog.eduonix.com/networking-and-security/penetration-testing-metasploit-windows/)|
+|[Selenium](https://www.selenium.dev/)|One of the well-known and popular tools among the testers is Selenium. It is an open-source tool that helps with browser automation. Selenium eases the pain to check whether an application works fine across the browsers and various versions.|[The Selenium Browser Automation Project](https://www.selenium.dev/documentation/en/)|
+|[Appium](http://appium.io/)| Selenium doesn’t suffice mobile app testing, and thus Appium is present. It acts as a sweet companion to help extensive mobile testing. Appium works for cross platforms like iOS and Android.|[Getting Started Appium](http://appium.io/docs/en/about-appium/getting-started/index.html)|
+|[Acunetix](https://www.acunetix.com/)| Acunetix is a fully automated web vulnerability scanner that detects and reports on over 4500 web application vulnerabilities including all variants of SQL Injection and XSS.It complements the role of a penetration tester by automating tasks that can take hours to test manually, delivering accurate results with no false positives at top speed. |[How to perform security testing using Acunetix](https://www.youtube.com/watch?v=vEAGPPANkVM)|
+
+#### White Box
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [Veracode](https://www.veracode.com/) | Veracode’s white box testing tools will help you in identifying and resolving the software flaws quickly and easily at a reduced cost. It supports several application languages like .NET, C++, JAVA etc and also enables you to test the security of desktop, web as well as mobile applications. | [Getting Started to use Veracode](https://help.veracode.com/reader/kJC1iOtXp8N~rCtV8P9jhw/iSZSa4HHNIlkYx3q9W08Xg)|
+
+## SQL Injection
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[SQLmap](https://github.com/sqlmapproject/sqlmap)|SQLMap is the open source SQL injection tool and most popular among all SQL injection tools available. This tool makes it easy to exploit the SQL injection vulnerability of a web application and take over the database server. It comes with a powerful detection engine which can easily detect most of the SQL injection related vulnerabilities.|[SQLmap Tutorial](https://hackertarget.com/sqlmap-tutorial/)|
+|[SQLninja](http://sqlninja.sourceforge.net/)|SQLninja is a SQL injection tool that exploits web applications that use a SQL server as a database server. This tool may not find the injection place at first. But if it is discovered, it can easily automate the exploitation process and extract the information from the database server.|[Sqlninja user manual](http://sqlninja.sourceforge.net/sqlninja-howto.html)|
+
+## DDOS Attacks
+
+#### Volume-based Attacks
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [LOIC](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
+
+#### Application Layer Attacks
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Slowloris](https://github.com/gkbrk/slowloris)|Slowloris is basically an HTTP Denial of Service attack that affects threaded servers.This exhausts the servers thread pool and the server can't reply to other people.|[Performing a genuine slowloris attack ](https://ourcodeworld.com/articles/read/962/performing-a-genuine-slowloris-attack-slowhttp-of-indefinite-length-in-kali-linux)|
+
+
+## Social Engineering
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)|The Social-Engineer Toolkit (SET) is a social engineering open-source penetration testing platform. In a fraction of time, SET has a variety of custom attack vectors that allow you to make a credible attack. This kinds of instruments use human actions to lure the attack vectors into them.|[Let’s learn how to use the Social Engineer Toolkit.](https://www.tutorialspoint.com/kali_linux/kali_linux_social_engineering.htm)|
+
 ## Password Hacking
 
 #### Dictionary Attack
@@ -57,6 +103,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [aircrack-ng](http://www.aircrack-ng.org/) | Aircrack-ng is a complete suite of tools to assess WiFi network security. All tools are command line which allows for heavy  scripting.A lot of GUIs have taken advantage of this feature. It works primarily Linux but also Windows, OS X,FreeBSD,OpenBSD,NetBSD as well as Solaris and even eComStation2.| [How to use aircrack-ng](https://www.aircrack-ng.org/doku.php?id=tutorial)|
 | [John the Ripper](https://www.openwall.com/john/) | John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types.|  [Brute force attack with John the Ripper](https://medium.com/@sc015020/how-to-crack-passwords-with-john-the-ripper-fdb98449ff1)|
+| [L0phtCrack](https://www.l0phtcrack.com/) | L0phtCrack is a password audit and recovery program originally developed by Mudge from L0pht Heavy Industries. Using dictionaries, brute-force, hybrid attacks, and rainbow tables, it is used to test password strength and also to recover missing Microsoft Windows passwords.|  [Quick Start with the L0phtCrack 7](http://www.l0phtcrack.com/doc/QuickStartwiththeL0phtCrack7Wiza.html)|
+| [Rainbowcrack](http://project-rainbowcrack.com/) | RainbowCrack is a computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.|  [Brute force attack with Rainbowcrack](https://www.darknet.org.uk/2006/02/rainbowcrack-how-to-use-rainbow-crack-rainbow-tables/)|
 
 #### Hybrid Dictionary Attack
 
@@ -64,6 +112,22 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [hashcat](https://hashcat.net/hashcat/) | Hashcat, which supports five separate attack modes for over 200 highly optimized hashing algorithms, is the world's best and most advanced password recovery utility. Hashcat currently supports Linux, Windows, and OSX CPUs, GPUs, and other hardware accelerators, and has facilities to allow distributed password cracking.| [How to use HashCat](https://www.youtube.com/watch?v=m0AGSO1LDJs)|
 | [windows_password_recovery_hybrid_dictionary_attack](https://www.passcape.com/windows_password_recovery_hybrid_dictionary_attack) | Windows Password Recovery distribution kit comes with extended sets of password mutation rules:<ul><li>hybrid_rules/english_words.ini file contains basic rules for English passwords.</li><li>hybrid_rules/nonenglish_words.ini holds common rules for non-Eglish passwords.</li><li>hybrid_rules/simple_dates.ini - a lot of rules with dates, months, seasons, etc.</li><li>hybrid_rules/l33t.ini - rules to freak words (based on the leet dictionary).</li></ul> For example, password->p@$$w0rd|  [Tutorial in passcape official website](https://www.passcape.com/windows_password_recovery_hybrid_dictionary_attack)|
+
+
+#### Rainbow Tables
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [Ophcrack](https://ophcrack.sourceforge.io/) | Ophcrack is a free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.| [How to Use Ophcrack](https://www.youtube.com/watch?v=Xka-0mQas64&ab_channel=SourceForge)|
+
+
+## Trojan Attacks
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [trojan-banker](https://www.kismetwireless.net/) | Trojan-Banker applications are designed to steal information from consumer accounts linked to internet banking, e-payment and plastic card schemes.| [How to create Undetectable Trojan Using a Domain Name](https://null-byte.wonderhowto.com/how-to/create-undetectable-trojan-using-domain-name-0171563/)|
+| [metasploit](https://www.metasploit.com/) | Metasploit is a program that is pre-installed on all Kali Linux devices that allows you to produce custom payloads from the victim's device that will connect back to your device. The payload is our RAT in this situation. A hacker will build a payload using metasploit, save it to a file, and trick some innocent user by social engineering into clicking on it.| [How to Create a Trojan Virus in Kali Linux](https://livelinuxusb.com/create-trojan-virus-kali-linux/)|
+
 
 ## Contributors ✨
 
@@ -80,6 +144,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars1.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Isuru Bandara</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Achiraisuru" title="Documentation">📖</a> <a href="#example-Achiraisuru" title="Examples">💡</a> <a href="#tutorial-Achiraisuru" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/DilshanUdawaththa"><img src="https://avatars2.githubusercontent.com/u/37608891?v=4" width="100px;" alt=""/><br /><sub><b>Dilshan Udawaththa</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=DilshanUdawaththa" title="Documentation">📖</a> <a href="#example-DilshanUdawaththa" title="Examples">💡</a> <a href="#tutorial-DilshanUdawaththa" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/Prabath03Dot"><img src="https://avatars1.githubusercontent.com/u/48862955?v=4" width="100px;" alt=""/><br /><sub><b>Prabath96</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Prabath03Dot" title="Documentation">📖</a> <a href="#example-Prabath03Dot" title="Examples">💡</a> <a href="#tutorial-Prabath03Dot" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/Hansajith98"><img src="https://avatars3.githubusercontent.com/u/54827047?v=4" width="100px;" alt=""/><br /><sub><b>Hansajith</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Hansajith98" title="Documentation">📖</a> <a href="#tutorial-Hansajith98" title="Tutorials">✅</a> <a href="#example-Hansajith98" title="Examples">💡</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/amaRanaweera"><img src="https://avatars1.githubusercontent.com/u/73416084?v=4" width="100px;" alt=""/><br /><sub><b>Amasha Ranaweera</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=amaRanaweera" title="Documentation">📖</a> <a href="#tutorial-amaRanaweera" title="Tutorials">✅</a> <a href="#example-amaRanaweera" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/charithroshan"><img src="https://avatars2.githubusercontent.com/u/43004672?v=4" width="100px;" alt=""/><br /><sub><b>charithroshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=charithroshan" title="Documentation">📖</a> <a href="#tutorial-charithroshan" title="Tutorials">✅</a> <a href="#example-charithroshan" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/PiyumiThathsarani"><img src="https://avatars1.githubusercontent.com/u/58032088?v=4" width="100px;" alt=""/><br /><sub><b>PiyumiThathsarani</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=PiyumiThathsarani" title="Documentation">📖</a> <a href="#example-PiyumiThathsarani" title="Examples">💡</a> <a href="#tutorial-PiyumiThathsarani" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/MS14-dev"><img src="https://avatars1.githubusercontent.com/u/54228656?v=4" width="100px;" alt=""/><br /><sub><b>Malindu Shamalka</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MS14-dev" title="Documentation">📖</a> <a href="#tutorial-MS14-dev" title="Tutorials">✅</a> <a href="#example-MS14-dev" title="Examples">💡</a></td>
   </tr>
 </table>
 

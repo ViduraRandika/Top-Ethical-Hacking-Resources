@@ -72,6 +72,61 @@
         "example",
         "tutorial"
       ]
+    },
+    {
+      "login": "Hansajith98",
+      "name": "Hansajith",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54827047?v=4",
+      "profile": "https://github.com/Hansajith98",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
+    },
+    {
+      "login": "amaRanaweera",
+      "name": "Amasha Ranaweera",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/73416084?v=4",
+      "profile": "https://github.com/amaRanaweera",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
+    },
+    {
+      "login": "charithroshan",
+      "name": "charithroshan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43004672?v=4",
+      "profile": "https://github.com/charithroshan",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
+    },
+    {
+      "login": "PiyumiThathsarani",
+      "name": "PiyumiThathsarani",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58032088?v=4",
+      "profile": "https://github.com/PiyumiThathsarani",
+      "contributions": [
+        "doc",
+        "example",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "MS14-dev",
+      "name": "Malindu Shamalka",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/54228656?v=4",
+      "profile": "https://github.com/MS14-dev",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
