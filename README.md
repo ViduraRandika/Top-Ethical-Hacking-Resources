@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -170,6 +170,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/charithroshan"><img src="https://avatars2.githubusercontent.com/u/43004672?v=4" width="100px;" alt=""/><br /><sub><b>charithroshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=charithroshan" title="Documentation">📖</a> <a href="#tutorial-charithroshan" title="Tutorials">✅</a> <a href="#example-charithroshan" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/PiyumiThathsarani"><img src="https://avatars1.githubusercontent.com/u/58032088?v=4" width="100px;" alt=""/><br /><sub><b>PiyumiThathsarani</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=PiyumiThathsarani" title="Documentation">📖</a> <a href="#example-PiyumiThathsarani" title="Examples">💡</a> <a href="#tutorial-PiyumiThathsarani" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/MS14-dev"><img src="https://avatars1.githubusercontent.com/u/54228656?v=4" width="100px;" alt=""/><br /><sub><b>Malindu Shamalka</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MS14-dev" title="Documentation">📖</a> <a href="#tutorial-MS14-dev" title="Tutorials">✅</a> <a href="#example-MS14-dev" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/Anne-98"><img src="https://avatars0.githubusercontent.com/u/58288067?v=4" width="100px;" alt=""/><br /><sub><b>Anne Sudari</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Anne-98" title="Documentation">📖</a> <a href="#tutorial-Anne-98" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
