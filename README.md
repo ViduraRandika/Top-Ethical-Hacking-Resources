@@ -83,6 +83,14 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Slowloris](https://github.com/gkbrk/slowloris)|Slowloris is basically an HTTP Denial of Service attack that affects threaded servers.This exhausts the servers thread pool and the server can't reply to other people.|[Performing a genuine slowloris attack ](https://ourcodeworld.com/articles/read/962/performing-a-genuine-slowloris-attack-slowhttp-of-indefinite-length-in-kali-linux)|
 
 
+#### External Penetration Testing
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Nmap](https://nmap.org/)| Nmap is the most popular method for network mapping in the world. It helps you to discover active hosts within any network and to gain other knowledge related to penetration testing (such as open ports).|[Penetration Testing for Beginners: Nmap](https://medium.com/@anuraagbaishya/penetration-testing-for-beginners-nmap-b3691682686d)|
+|[NetCat](http://netcat.sourceforge.net/)| Netcat is a network discovery program that is common in the fields of network and device management, not just for those in the security industry. |[How to use netcat (nc), ncat - Ethical hacking and penetration](https://miloserdov.org/?p=2826)|
+|[ Unicornscan](https://sectools.org/tool/unicornscan/)| Registered under a GPL license, Unicornscan is one of the best methods used for capturing information and correlating data. It provides advanced asynchronous scanning functionality for TCP and UDP, together with very helpful patterns of network exploration that will help you identify remote hosts. It will even disclose information about the program that each of them is using. |[Unicorn - Downgrade Attack & Inject Shellcode Into Memory](https://kalilinuxtutorials.com/unicorn-attack-inject-shellcode/)|
+
 ## Social Engineering
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
