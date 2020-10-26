@@ -70,6 +70,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [LOIC](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
 
+#### Application Layer Attacks
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Slowloris](https://github.com/gkbrk/slowloris)|Slowloris is basically an HTTP Denial of Service attack that affects threaded servers.This exhausts the servers thread pool and the server can't reply to other people.|[Performing a genuine slowloris attack ](https://ourcodeworld.com/articles/read/962/performing-a-genuine-slowloris-attack-slowhttp-of-indefinite-length-in-kali-linux)|
+
 
 ## Social Engineering
 | Tool  | Description | Example / Tutorial (link) |
@@ -107,13 +113,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 | [Ophcrack](https://ophcrack.sourceforge.io/) | Ophcrack is a free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.| [How to Use Ophcrack](https://www.youtube.com/watch?v=Xka-0mQas64&ab_channel=SourceForge)|
-
-## TCP/IP Hijacking
-
-| Tool  | Description | Example / Tutorial (link) |
-| ----- | ----------- |---------------------------|
-| [Ettercap](https://www.ettercap-project.org/) | Ettercap is a comprehensive suite for man in the middle attacks.It features sniffing of live connections, content filtering on the fly and many other interesting tricks.It supports active and passive dissection of many protocols and includes many features for network and host analysis.| [How to Use Ettercap for TCP/IP Hijacking](https://pentestmag.com/ettercap-tutorial-for-windows/)|
-| [Wireshark](https://www.wireshark.org/) | Wireshark is a free and open-source packet analyzer.It is used for network troubleshooting, analysis, software and communications protocol development, and education.| [How to Use Wireshark](https://www.youtube.com/watch?v=1oLv94z9D38&ab_channel=YoungITClub)|
 
 
 ## Trojan Attacks
