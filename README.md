@@ -106,6 +106,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [Ophcrack](https://ophcrack.sourceforge.io/) | Ophcrack is a free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.| [How to Use Ophcrack](https://www.youtube.com/watch?v=Xka-0mQas64&ab_channel=SourceForge)|
 
+## TCP/IP Hijacking
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [Ettercap](https://www.ettercap-project.org/) | Ettercap is a comprehensive suite for man in the middle attacks.It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis. | [Ettercap user mannual](https://miloserdov.org/?p=1772)|
 
 ## Trojan Attacks
 
