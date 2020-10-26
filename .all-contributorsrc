@@ -116,6 +116,17 @@
         "example",
         "tutorial"
       ]
+    },
+    {
+      "login": "MS14-dev",
+      "name": "Malindu Shamalka",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/54228656?v=4",
+      "profile": "https://github.com/MS14-dev",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
