@@ -51,6 +51,14 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Wireshark](https://www.wireshark.org/)|Once known as Ethereal 0.2.0, with 600 contributors, Wireshark is an award-winning network analyzer. You can do BlackBox pen testing with wireshark easily. The tool is open-source and is available for Windows, Solaris, FreeBSD, and Debian, among other platforms.|[Black Box Network Penetration Testing Walkthrough](https://resources.infosecinstitute.com/blackbox-network-penetration-testing-walkthrough/)|
 |[Metasploit framework](https://www.metasploit.com/)| The architecture for Metasploit is structured into modules. Exploit is the first sort of module. To take advantage of device vulnerabilities, Exploit modules are built. Buffer overload, program exploits and insertion of code are examples. Auxiliary modules carry out acts that do not take advantage of vulnerabilities explicitly.|[Introduction to Penetration Testing & Metasploit With Windows](https://blog.eduonix.com/networking-and-security/penetration-testing-metasploit-windows/)|
 
+#### External Penetration Testing
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Nmap](https://nmap.org/)| Nmap is the most popular method for network mapping in the world. It helps you to discover active hosts within any network and to gain other knowledge related to penetration testing (such as open ports).|[Penetration Testing for Beginners: Nmap](https://medium.com/@anuraagbaishya/penetration-testing-for-beginners-nmap-b3691682686d)|
+|[NetCat](http://netcat.sourceforge.net/)| Netcat is a network discovery program that is common in the fields of network and device management, not just for those in the security industry. |[How to use netcat (nc), ncat - Ethical hacking and penetration](https://miloserdov.org/?p=2826)|
+|[ Unicornscan](https://sectools.org/tool/unicornscan/)| Registered under a GPL license, Unicornscan is one of the best methods used for capturing information and correlating data. It provides advanced asynchronous scanning functionality for TCP and UDP, together with very helpful patterns of network exploration that will help you identify remote hosts. It will even disclose information about the program that each of them is using. |[Unicorn - Downgrade Attack & Inject Shellcode Into Memory](https://kalilinuxtutorials.com/unicorn-attack-inject-shellcode/)|
+
 ## Social Engineering
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
