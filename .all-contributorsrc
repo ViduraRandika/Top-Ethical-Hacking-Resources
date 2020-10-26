@@ -94,6 +94,28 @@
         "tutorial",
         "example"
       ]
+    },
+    {
+      "login": "charithroshan",
+      "name": "charithroshan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43004672?v=4",
+      "profile": "https://github.com/charithroshan",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
+    },
+    {
+      "login": "PiyumiThathsarani",
+      "name": "PiyumiThathsarani",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58032088?v=4",
+      "profile": "https://github.com/PiyumiThathsarani",
+      "contributions": [
+        "doc",
+        "example",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
