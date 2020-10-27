@@ -40,6 +40,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [Aircrack](http://www.aircrack-ng.org/) | Aircrack is one of the most popular wireless passwords cracking tools which you can use for 802.11a/b/g WEP and WPA cracking. Aircrack uses the best algorithms to recover wireless passwords by capturing packets. | [How to use Aircrack](https://www.aircrack-ng.org/doku.php?id=cracking_wpa/)|
 | [CloudCracker](https://crack.sh/) |CloudCracker is the online password cracking tool for cracking WPA protected wi-fi networks. This tool can also be used to crack different password hashes. | [How to use CloudCracker](https://crack.sh/get-cracking/)|
 | [Wifite](https://github.com/derv82/wifite2) |This tool is fantastic and being able to attack multiple WEP, WPA, and WPS encrypted networks in a row. It’s fast becoming the industry’s favorite WiFi Hacking Tool for Pentesters. | [How to use Wifite](https://github.com/derv82/wifite2)|
+| [KisMAC](https://kismac-ng.org/) |KisMac is tool very much similar to Kismet. It offers features similar to Kismet and is used as wireless network discovery hacking tool.This tool is only available for Mac. It scans for networks passively only on supported wireless cards and then try to crack WEP and WPA keys by using brute force or exploiting any flaw.| [How to use KisMAC](http://howto-onlinetutorial.blogspot.com/2012/12/how-to-use-kismac.html)|
 
 
 ## Pen Testing
