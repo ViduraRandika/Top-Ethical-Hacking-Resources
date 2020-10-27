@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -40,6 +40,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [Aircrack](http://www.aircrack-ng.org/) | Aircrack is one of the most popular wireless passwords cracking tools which you can use for 802.11a/b/g WEP and WPA cracking. Aircrack uses the best algorithms to recover wireless passwords by capturing packets. | [How to use Aircrack](https://www.aircrack-ng.org/doku.php?id=cracking_wpa/)|
 | [CloudCracker](https://crack.sh/) |CloudCracker is the online password cracking tool for cracking WPA protected wi-fi networks. This tool can also be used to crack different password hashes. | [How to use CloudCracker](https://crack.sh/get-cracking/)|
 | [Wifite](https://github.com/derv82/wifite2) |This tool is fantastic and being able to attack multiple WEP, WPA, and WPS encrypted networks in a row. It’s fast becoming the industry’s favorite WiFi Hacking Tool for Pentesters. | [How to use Wifite](https://github.com/derv82/wifite2)|
+| [KisMAC](https://kismac-ng.org/) |KisMac is tool very much similar to Kismet. It offers features similar to Kismet and is used as wireless network discovery hacking tool.This tool is only available for Mac. It scans for networks passively only on supported wireless cards and then try to crack WEP and WPA keys by using brute force or exploiting any flaw.| [How to use KisMAC](http://howto-onlinetutorial.blogspot.com/2012/12/how-to-use-kismac.html)|
 
 
 ## Pen Testing
@@ -56,7 +57,16 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Acunetix](https://www.acunetix.com/)| Acunetix is a fully automated web vulnerability scanner that detects and reports on over 4500 web application vulnerabilities including all variants of SQL Injection and XSS.It complements the role of a penetration tester by automating tasks that can take hours to test manually, delivering accurate results with no false positives at top speed. |[How to perform security testing using Acunetix](https://www.youtube.com/watch?v=vEAGPPANkVM)|
 |[Hackerone](https://www.hackerone.com/)| Hackerone is one of the top security testing platforms. It can find and fix critical vulnerabilities. More and more Fortune 500 and Forbes Global 1000 companies choose HackerOne as it provides fast on-demand delivery. You can get started in just 7 days and get results in 4 weeks. |[From beginner to submitting 5 reports to HackerOne](https://dev.to/pirateducky/from-beginner-to-submitting-5-reports-to-hackerone-4goh)|
 |[Intruder](https://www.intruder.io/internal-vulnerability-scanner)| Intruder is a powerful vulnerability scanner that finds cybersecurity weaknesses in your digital estate, and explains the risks & helps with their remediation before a breach can occur. It is the perfect tool to help automate your penetration testing efforts. |[Intruder Pricing, Features, Reviews & Comparison of Alternatives](https://www.getapp.com/security-software/a/intruder/)|
-|[Metasploit](https://www.metasploit.com/)| This is the most advanced and popular Framework that can be used for pen-testing. It is based on the concept of ‘exploit’ which is a code that can surpass the security measures and enter a certain system. If entered, it runs a ‘payload’, a code that performs operations on a target machine, thus creating a perfect framework for penetration testing. |[What is Metasploit? And how to use this popular hacking tool](https://www.csoonline.com/article/3379117/what-is-metasploit-and-how-to-use-this-popular-hacking-tool.html)|
+|[Core Impact](https://www.coresecurity.com/products/core-impact)| Core impact: With over 20 years in the market, Core Impact claims the largest range of exploits available in the market, they also let you run the free Metasploit exploits within their framework if they are missing one.  They automate a lot of processes with wizards, have a complete audit trail including PowerShell commands, and can re-test a client simply by re-playing the audit trail. |[Core Impact Tutorial](https://www.ethicalhacker.net/columns/jpeltier/core-impact-tutorial/)|
+|[NMAP](https://nmap.org/)| This tool is used primarily for discovering just about kind of weaknesses or holes in the network environment of a business or a corporation. It can also be used for auditing purposes as well. NMAP can take the raw data packets.This tool can be used at any stage of the Pen Testing process, and even has built in scripting features available to help automate any testing process.|[How to Scan Your Network Using Nmap](https://www.youtube.com/watch?v=IoIsTrKrl-0)|
+|[W3af](http://w3af.org/)|This Pen Testing suite has been created by the software developers at Metasploit, and its main purpose is to find, ascertain, and exploit any Security weaknesses or holes in Web based applications. The results of the Pen Test are displayed in both easy to understand graphical and text based formats.|[W3af walkthrough and tutorial](https://resources.infosecinstitute.com/w3af-tutorial/)|
+
+
+#### White Box
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [Veracode](https://www.veracode.com/) | Veracode’s white box testing tools will help you in identifying and resolving the software flaws quickly and easily at a reduced cost. It supports several application languages like .NET, C++, JAVA etc and also enables you to test the security of desktop, web as well as mobile applications. | [Getting Started to use Veracode](https://help.veracode.com/reader/kJC1iOtXp8N~rCtV8P9jhw/iSZSa4HHNIlkYx3q9W08Xg)|
 
 ## SQL Injection
 
@@ -73,6 +83,26 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [LOIC](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
 
+#### Protocol Attacks
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[aSYNCrone](https://github.com/fatihsnsy/aSYNcrone)| aSYNCrone is a tool fro making TCP SYN Flooding attack. A denial-of - service attack that exploits the three-way handshake used by TCP / IP to create a link is SYN flooding. Basically, by generating several half-open links, SYN flooding disables a targeted scheme. |[How To Perform TCP SYN Flood DOS Attack using Kali Linux](https://www.crackitdown.com/2019/12/perform-syn-flood-dos-attack-using-kali-linux.html)|
+
+#### Application Layer Attacks
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Slowloris](https://github.com/gkbrk/slowloris)|Slowloris is basically an HTTP Denial of Service attack that affects threaded servers.This exhausts the servers thread pool and the server can't reply to other people.|[Performing a genuine slowloris attack ](https://ourcodeworld.com/articles/read/962/performing-a-genuine-slowloris-attack-slowhttp-of-indefinite-length-in-kali-linux)|
+
+
+#### External Penetration Testing
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+|[Nmap](https://nmap.org/)| Nmap is the most popular method for network mapping in the world. It helps you to discover active hosts within any network and to gain other knowledge related to penetration testing (such as open ports).|[Penetration Testing for Beginners: Nmap](https://medium.com/@anuraagbaishya/penetration-testing-for-beginners-nmap-b3691682686d)|
+|[NetCat](http://netcat.sourceforge.net/)| Netcat is a network discovery program that is common in the fields of network and device management, not just for those in the security industry. |[How to use netcat (nc), ncat - Ethical hacking and penetration](https://miloserdov.org/?p=2826)|
+|[ Unicornscan](https://sectools.org/tool/unicornscan/)| Registered under a GPL license, Unicornscan is one of the best methods used for capturing information and correlating data. It provides advanced asynchronous scanning functionality for TCP and UDP, together with very helpful patterns of network exploration that will help you identify remote hosts. It will even disclose information about the program that each of them is using. |[Unicorn - Downgrade Attack & Inject Shellcode Into Memory](https://kalilinuxtutorials.com/unicorn-attack-inject-shellcode/)|
 
 ## Social Engineering
 | Tool  | Description | Example / Tutorial (link) |
@@ -111,6 +141,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [Ophcrack](https://ophcrack.sourceforge.io/) | Ophcrack is a free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.| [How to Use Ophcrack](https://www.youtube.com/watch?v=Xka-0mQas64&ab_channel=SourceForge)|
 
+## TCP/IP Hijacking
+
+| Tool  | Description | Example / Tutorial (link) |
+| ----- | ----------- |---------------------------|
+| [Ettercap](https://www.ettercap-project.org/) | Ettercap is a comprehensive suite for man in the middle attacks.It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis. | [Ettercap user mannual](https://miloserdov.org/?p=1772)|
 
 ## Trojan Attacks
 
@@ -141,6 +176,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/amaRanaweera"><img src="https://avatars1.githubusercontent.com/u/73416084?v=4" width="100px;" alt=""/><br /><sub><b>Amasha Ranaweera</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=amaRanaweera" title="Documentation">📖</a> <a href="#tutorial-amaRanaweera" title="Tutorials">✅</a> <a href="#example-amaRanaweera" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/charithroshan"><img src="https://avatars2.githubusercontent.com/u/43004672?v=4" width="100px;" alt=""/><br /><sub><b>charithroshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=charithroshan" title="Documentation">📖</a> <a href="#tutorial-charithroshan" title="Tutorials">✅</a> <a href="#example-charithroshan" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/PiyumiThathsarani"><img src="https://avatars1.githubusercontent.com/u/58032088?v=4" width="100px;" alt=""/><br /><sub><b>PiyumiThathsarani</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=PiyumiThathsarani" title="Documentation">📖</a> <a href="#example-PiyumiThathsarani" title="Examples">💡</a> <a href="#tutorial-PiyumiThathsarani" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/MS14-dev"><img src="https://avatars1.githubusercontent.com/u/54228656?v=4" width="100px;" alt=""/><br /><sub><b>Malindu Shamalka</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MS14-dev" title="Documentation">📖</a> <a href="#tutorial-MS14-dev" title="Tutorials">✅</a> <a href="#example-MS14-dev" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/Anne-98"><img src="https://avatars0.githubusercontent.com/u/58288067?v=4" width="100px;" alt=""/><br /><sub><b>Anne Sudari</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Anne-98" title="Documentation">📖</a> <a href="#tutorial-Anne-98" title="Tutorials">✅</a></td>
   </tr>
 </table>
 

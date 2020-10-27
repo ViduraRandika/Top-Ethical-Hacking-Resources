@@ -116,6 +116,27 @@
         "example",
         "tutorial"
       ]
+    },
+    {
+      "login": "MS14-dev",
+      "name": "Malindu Shamalka",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/54228656?v=4",
+      "profile": "https://github.com/MS14-dev",
+      "contributions": [
+        "doc",
+        "tutorial",
+        "example"
+      ]
+    },
+    {
+      "login": "Anne-98",
+      "name": "Anne Sudari",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/58288067?v=4",
+      "profile": "https://github.com/Anne-98",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
