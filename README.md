@@ -54,6 +54,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Selenium](https://www.selenium.dev/)|One of the well-known and popular tools among the testers is Selenium. It is an open-source tool that helps with browser automation. Selenium eases the pain to check whether an application works fine across the browsers and various versions.|[The Selenium Browser Automation Project](https://www.selenium.dev/documentation/en/)|
 |[Appium](http://appium.io/)| Selenium doesn’t suffice mobile app testing, and thus Appium is present. It acts as a sweet companion to help extensive mobile testing. Appium works for cross platforms like iOS and Android.|[Getting Started Appium](http://appium.io/docs/en/about-appium/getting-started/index.html)|
 |[Acunetix](https://www.acunetix.com/)| Acunetix is a fully automated web vulnerability scanner that detects and reports on over 4500 web application vulnerabilities including all variants of SQL Injection and XSS.It complements the role of a penetration tester by automating tasks that can take hours to test manually, delivering accurate results with no false positives at top speed. |[How to perform security testing using Acunetix](https://www.youtube.com/watch?v=vEAGPPANkVM)|
+|[Hackerone](https://www.hackerone.com/)| Hackerone is one of the top security testing platforms. It can find and fix critical vulnerabilities. More and more Fortune 500 and Forbes Global 1000 companies choose HackerOne as it provides fast on-demand delivery. You can get started in just 7 days and get results in 4 weeks. |[From beginner to submitting 5 reports to HackerOne](https://dev.to/pirateducky/from-beginner-to-submitting-5-reports-to-hackerone-4goh)|
+
 
 ## SQL Injection
 
