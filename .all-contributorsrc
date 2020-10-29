@@ -127,6 +127,16 @@
         "tutorial",
         "example"
       ]
+    },
+    {
+      "login": "Anne-98",
+      "name": "Anne Sudari",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/58288067?v=4",
+      "profile": "https://github.com/Anne-98",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
