@@ -86,6 +86,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[whitewidow](https://github.com/WhitewidowScanner/whitewidow)|Whitewidow is an open source automated SQL vulnerability scanner, that is capable of running through a file list, or can scrape Google for potential vulnerable websites. It allows automatic file formatting, random user agents, IP addresses, server information, multiple SQL injection syntax, ability to launch sqlmap from the program, and a fun environment.|[whitewidow user manual](https://kalilinuxtutorials.com/whitewidow/)|
 |[SQLSus](http://sqlsus.sourceforge.net/)|SQLSus is another open source SQL injection tool and is basically a MySQL injection and takeover tool. This tool is written in Perl and you can extend the functions by adding your own codes. This tool offers a command interface which lets you inject your own SQL queries and perform SQL injection attacks.|[SQLsus – MySql Injection Tutorial](https://www.ehacking.net/2011/11/sqlsus-mysql-injection-tutoria.html)|
 |[explo](https://github.com/telekom-security/explo)|explo is a simple tool to describe web security issues in a human and machine readable format. By defining a request/condition workflow, explo is able to exploit security issues without the need of writing a script. This allows to share complex vulnerabilities in a simple readable and executable format.|[Telekom-security-explo Tutorial](https://github.com/telekom-security/explo)|
+|[NoSQLMap](https://medium.com/rangeforce/nosqlmap-a67d76b88c48)|t NoSQLMap — a tool that is designed to find and exploit various NoSQL vulnerabilities. NoSQLMap is largely oriented towards testing MongoDB and CouchDB, but support for other NoSQL databases such as Redis and Cassandra is planned for future releases.|[NoSQLMap – MySql Injection Tutorial](https://www.youtube.com/watch?v=127BS4AmCuY)|
 
 
 ## DDOS Attacks
@@ -95,6 +96,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 | [LOIC](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
+| [SYN flood](https://www.cloudflare.com/en-gb/learning/ddos/what-is-a-ddos-attack/) | LA SYN Flood is analogous to a worker in a supply room receiving requests from the front of the store.The worker receives a request, goes and gets the package, and waits for confirmation before bringing the package out front. The worker then gets many more package requests without confirmation until they can’t carry any more packages, become overwhelmed, and requests start going unanswered. | [Guide to use SYN flood](https://www.youtube.com/watch?v=tClcCMrXzek)|
 
 #### Protocol Attacks
 
@@ -121,7 +123,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)|The Social-Engineer Toolkit (SET) is a social engineering open-source penetration testing platform. In a fraction of time, SET has a variety of custom attack vectors that allow you to make a credible attack. This kinds of instruments use human actions to lure the attack vectors into them.|[Let’s learn how to use the Social Engineer Toolkit.](https://www.tutorialspoint.com/kali_linux/kali_linux_social_engineering.htm)|
-
+|[ Watering hole](https://searchsecurity.techtarget.com/definition/watering-hole-attack)| A watering hole attack involves launching or downloading malicious code from a legitimate website, which is commonly visited by the targets of the attack. For example, attackers might compromise a financial industry news site, knowing that individuals who work in finance and thus represent an attractive target, are likely to visit this site. The compromised site typically installs a backdoor trojan that allows the attacker to compromise and remotely control the victim’s device.. |[infecting websites with malware that the targeted victims were likely to visit.](https://www.jigsawacademy.com/blogs/cyber-security/watering-hole-attack/)|
 ## Password Hacking
 
 #### Dictionary Attack
