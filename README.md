@@ -61,6 +61,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 |[SQLmap](https://github.com/sqlmapproject/sqlmap)|SQLMap is the open source SQL injection tool and most popular among all SQL injection tools available. This tool makes it easy to exploit the SQL injection vulnerability of a web application and take over the database server. It comes with a powerful detection engine which can easily detect most of the SQL injection related vulnerabilities.|[SQLmap Tutorial](https://hackertarget.com/sqlmap-tutorial/)|
 |[SQLninja](http://sqlninja.sourceforge.net/)|SQLninja is a SQL injection tool that exploits web applications that use a SQL server as a database server. This tool may not find the injection place at first. But if it is discovered, it can easily automate the exploitation process and extract the information from the database server.|[Sqlninja user manual](http://sqlninja.sourceforge.net/sqlninja-howto.html)|
+|[whitewidow](https://github.com/WhitewidowScanner/whitewidow)|Whitewidow is an open source automated SQL vulnerability scanner, that is capable of running through a file list, or can scrape Google for potential vulnerable websites. It allows automatic file formatting, random user agents, IP addresses, server information, multiple SQL injection syntax, ability to launch sqlmap from the program, and a fun environment.|[whitewidow user manual](https://kalilinuxtutorials.com/whitewidow/)|
 
 ## DDOS Attacks
 
