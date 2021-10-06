@@ -104,6 +104,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[aSYNCrone](https://github.com/fatihsnsy/aSYNcrone)| aSYNCrone is a tool fro making TCP SYN Flooding attack. A denial-of - service attack that exploits the three-way handshake used by TCP / IP to create a link is SYN flooding. Basically, by generating several half-open links, SYN flooding disables a targeted scheme. |[How To Perform TCP SYN Flood DOS Attack using Kali Linux](https://www.crackitdown.com/2019/12/perform-syn-flood-dos-attack-using-kali-linux.html)|
+|[XOIC](https://appnee.com/xoic/)| XOIC is another DOS attack tool with an IP address, a user-selected port, and a user-selected protocol. It is a GUI based tool that makes it easy to use for beginners. Developers of this tool claim that XOIC is more powerful than LOIC. |[Examples of Kali Linux Hydra Tool](https://allabouttesting.org/examples-of-kali-linux-hydra-tool/)|
 
 #### Application Layer Attacks
 
