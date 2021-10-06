@@ -122,6 +122,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [trojan-banker](https://www.kismetwireless.net/) | Trojan-Banker applications are designed to steal information from consumer accounts linked to internet banking, e-payment and plastic card schemes.| [How to create Undetectable Trojan Using a Domain Name](https://null-byte.wonderhowto.com/how-to/create-undetectable-trojan-using-domain-name-0171563/)|
 | [metasploit](https://www.metasploit.com/) | Metasploit is a program that is pre-installed on all Kali Linux devices that allows you to produce custom payloads from the victim's device that will connect back to your device. The payload is our RAT in this situation. A hacker will build a payload using metasploit, save it to a file, and trick some innocent user by social engineering into clicking on it.| [How to Create a Trojan Virus in Kali Linux](https://livelinuxusb.com/create-trojan-virus-kali-linux/)|
+| [ArcBombs](https://www.prosense.net/en/products/calorimetry/arc-bombs/) | These Trojans represent special archives that are designed to behave abnormally when users try to unpack them. ArcBomb archives either freeze or seriously slow the system. Malicious archives use different techniques to achieve their goal. They may use malcrafted headers or corrupt data that lead to a malfunction of an archiver or an unpacking algorithm. They may also contain a heavyweight object that consists of identical, repeating data that can be packed into a small archive. For example, 10 GB of data is packed into a 400 KB archive.| [TROJAN-ARCBOMB](https://threats.kaspersky.com/en/class/Trojan-ArcBomb/)|
+
 
 
 ## Contributors ✨
