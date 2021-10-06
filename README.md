@@ -201,6 +201,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Anne-98"><img src="https://avatars0.githubusercontent.com/u/58288067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anne Sudari</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Anne-98" title="Documentation">📖</a> <a href="#tutorial-Anne-98" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/smartsupun"><img src="https://avatars.githubusercontent.com/u/59835161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Supun Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=smartsupun" title="Documentation">📖</a> </td>
     <td align="center"><a href="https://github.com/amila01"><img src="https://avatars.githubusercontent.com/u/57836010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amila de silva</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=amila01" title="Documentation">📖</a></td>
+ </tr>  
+ <tr>
     <td align="center"><a href="https://github.com/Dimuthu-10"><img src="https://avatars.githubusercontent.com/u/58289018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimuthu Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Dimuthu-10" title="Documentation">📖</a> </td>
   </tr>
 </table>
