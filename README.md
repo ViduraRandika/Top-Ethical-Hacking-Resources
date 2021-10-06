@@ -120,7 +120,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)|The Social-Engineer Toolkit (SET) is a social engineering open-source penetration testing platform. In a fraction of time, SET has a variety of custom attack vectors that allow you to make a credible attack. This kinds of instruments use human actions to lure the attack vectors into them.|[Let’s learn how to use the Social Engineer Toolkit.](https://www.tutorialspoint.com/kali_linux/kali_linux_social_engineering.htm)|
-
+|[ Watering hole](https://searchsecurity.techtarget.com/definition/watering-hole-attack)| A watering hole attack involves launching or downloading malicious code from a legitimate website, which is commonly visited by the targets of the attack. For example, attackers might compromise a financial industry news site, knowing that individuals who work in finance and thus represent an attractive target, are likely to visit this site. The compromised site typically installs a backdoor trojan that allows the attacker to compromise and remotely control the victim’s device.. |[infecting websites with malware that the targeted victims were likely to visit.](https://www.jigsawacademy.com/blogs/cyber-security/watering-hole-attack/)|
 ## Password Hacking
 
 #### Dictionary Attack
