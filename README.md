@@ -75,6 +75,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [Veracode](https://www.veracode.com/) | Veracode’s white box testing tools will help you in identifying and resolving the software flaws quickly and easily at a reduced cost. It supports several application languages like .NET, C++, JAVA etc and also enables you to test the security of desktop, web as well as mobile applications. | [Getting Started to use Veracode](https://help.veracode.com/reader/kJC1iOtXp8N~rCtV8P9jhw/iSZSa4HHNIlkYx3q9W08Xg)|
 | [EclEmma](https://www.eclemma.org/) | EclEmma was initially designed for test runs and analysis within the Eclipse workbench. It is considered to be a free Java code coverage tool and has several features as well.| [Getting Started to use EclEmma](https://www.eclemma.org/index.html)|
 | [RCUNIT](https://sourceforge.net/projects/rcunit/) | A framework which is used for testing C programs is known as RCUNIT. RCUNIT can be used accordingly based on the terms of the MIT License.| [Getting Started to use RCUNIT](https://github.com/jecklgamis/rcunit)|
+| [cfix](https://sourceforge.net/projects/cfix/files/latest/download) | cfix is one of the unit testing frameworks for C/C++ which solely aims at making test suites development as simple and easy as possible. Meanwhile, cfix is typically specialized for NT Kernel mode and Win32.| [Getting Started to use cfix](https://github.com/jpassing/cfix)|
 
 ## SQL Injection
 
