@@ -137,6 +137,15 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "smartsupun",
+      "name": "Supun Lakshan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59835161?v=4",
+      "profile": "https://github.com/smartsupun",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
