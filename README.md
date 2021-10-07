@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -201,8 +201,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/PiyumiThathsarani"><img src="https://avatars1.githubusercontent.com/u/58032088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>PiyumiThathsarani</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=PiyumiThathsarani" title="Documentation">📖</a> <a href="#example-PiyumiThathsarani" title="Examples">💡</a> <a href="#tutorial-PiyumiThathsarani" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/MS14-dev"><img src="https://avatars1.githubusercontent.com/u/54228656?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malindu Shamalka</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MS14-dev" title="Documentation">📖</a> <a href="#tutorial-MS14-dev" title="Tutorials">✅</a> <a href="#example-MS14-dev" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/Anne-98"><img src="https://avatars0.githubusercontent.com/u/58288067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anne Sudari</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Anne-98" title="Documentation">📖</a> <a href="#tutorial-Anne-98" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://github.com/smartsupun"><img src="https://avatars.githubusercontent.com/u/59835161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Supun Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=smartsupun" title="Documentation">📖</a> <a href="#tutorial-smartsupun" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://github.com/deshitha98"><img src="https://avatars.githubusercontent.com/u/91746010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>deshitha98</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=deshitha98" title="Documentation">📖</a> <a href="#tutorial-deshitha98" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/smartsupun"><img src="https://avatars.githubusercontent.com/u/59835161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Supun Lakshan</b></sub></a><br /><a href="#design-smartsupun" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/deshitha98"><img src="https://avatars.githubusercontent.com/u/91746010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>deshitha98</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=deshitha98" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Dimuthu-10"><img src="https://avatars.githubusercontent.com/u/58289018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimuthu Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Dimuthu-10" title="Documentation">📖</a> <a href="#tutorial-Dimuthu-10" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
