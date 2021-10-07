@@ -110,6 +110,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[aSYNCrone](https://github.com/fatihsnsy/aSYNcrone)| aSYNCrone is a tool fro making TCP SYN Flooding attack. A denial-of - service attack that exploits the three-way handshake used by TCP / IP to create a link is SYN flooding. Basically, by generating several half-open links, SYN flooding disables a targeted scheme. |[How To Perform TCP SYN Flood DOS Attack using Kali Linux](https://www.crackitdown.com/2019/12/perform-syn-flood-dos-attack-using-kali-linux.html)|
+|[HULK](https://github.com/grafov/hulk)| HULK stands for HTTP Unbearable Load King. It is a DoS attack tool for the web server. It is created for research purposes. This tool targeted for stress testing and may really down badly configured server or badly made app. |[How to use HULK](https://allabouttesting.org/hulk-ddos-tool-complete-installation-usage-with-examples/)|
 
 #### Application Layer Attacks
 
