@@ -177,10 +177,20 @@
       ]
     },
     {
-    "login": "Dilshan1997",
+      "login": "Dilshan1997",
       "name": "Dilshan Madhuranga",
       "avatar_url": "https://avatars.githubusercontent.com/u/48722230?v=4",
       "profile": "https://github.com/Dilshan1997",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "banuka2001",
+      "name": "banuka2001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91893782?v=4",
+      "profile": "https://github.com/banuka2001",
       "contributions": [
         "doc",
         "tutorial"
