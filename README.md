@@ -205,6 +205,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/deshitha98"><img src="https://avatars.githubusercontent.com/u/91746010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>deshitha98</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=deshitha98" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Dimuthu-10"><img src="https://avatars.githubusercontent.com/u/58289018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimuthu Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Dimuthu-10" title="Documentation">📖</a> <a href="#tutorial-Dimuthu-10" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/amila01"><img src="https://avatars.githubusercontent.com/u/57836010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amila de silva</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=amila01" title="Documentation">📖</a> <a href="#tutorial-amila01" title="Tutorials">✅</a></td>
   </tr>
 </table>

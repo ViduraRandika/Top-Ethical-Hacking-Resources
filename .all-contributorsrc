@@ -165,6 +165,16 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "Dimuthu-10",
+      "name": "Dimuthu Lakshan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58289018?v=4",
+      "profile": "https://github.com/Dimuthu-10",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
