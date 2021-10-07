@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -88,7 +88,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[explo](https://github.com/telekom-security/explo)|explo is a simple tool to describe web security issues in a human and machine readable format. By defining a request/condition workflow, explo is able to exploit security issues without the need of writing a script. This allows to share complex vulnerabilities in a simple readable and executable format.|[Telekom-security-explo Tutorial](https://github.com/telekom-security/explo)|
 |[SQLSus](https://www.acunetix.com/websitesecurity/sql-injection/)|SQL Injection (SQLi) is a type of an injection attack that makes it possible to execute malicious SQL statements. These statements control a database server behind a web application. Attackers can use SQL Injection vulnerabilities to bypass application security measures. They can go around authentication and authorization of a web page or web application and retrieve the content of the entire SQL database.|[SQLsus – MySql Injection Tutorial](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)|
 |[NoSQLMap](https://medium.com/rangeforce/nosqlmap-a67d76b88c48)|t NoSQLMap — a tool that is designed to find and exploit various NoSQL vulnerabilities. NoSQLMap is largely oriented towards testing MongoDB and CouchDB, but support for other NoSQL databases such as Redis and Cassandra is planned for future releases.|[NoSQLMap – MySql Injection Tutorial](https://www.youtube.com/watch?v=127BS4AmCuY)|
-|[Blisqy](https://www.researchgate.net/publication/328880240_Time-Based_Blind_SQL_Injection_via_HTTP_Headers_Fuzzing_and_Exploitation)|Blisqy is a tool to aid Web Security researchers to find Time-based Blind SQL injection on HTTP Headers and also exploitation of the same vulnerability.The exploitation enables slow data siphon from a database (currently supports MySQL/MariaDB only) using bitwise operation on printable ASCII characters, via a blind-SQL injection. For interoperability with other Python tools and to enable other users utilise the features provided in Blisqy, the modules herein can be imported into other Python based scripts.|[Blisqy Injection Documentation](https://github.com/JohnTroony/Blisqy)|
 
 
 ## DDOS Attacks
@@ -105,7 +104,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[aSYNCrone](https://github.com/fatihsnsy/aSYNcrone)| aSYNCrone is a tool fro making TCP SYN Flooding attack. A denial-of - service attack that exploits the three-way handshake used by TCP / IP to create a link is SYN flooding. Basically, by generating several half-open links, SYN flooding disables a targeted scheme. |[How To Perform TCP SYN Flood DOS Attack using Kali Linux](https://www.crackitdown.com/2019/12/perform-syn-flood-dos-attack-using-kali-linux.html)|
-|[XOIC](https://appnee.com/xoic/)| XOIC is another DOS attack tool with an IP address, a user-selected port, and a user-selected protocol. It is a GUI based tool that makes it easy to use for beginners. Developers of this tool claim that XOIC is more powerful than LOIC. |[Examples of Kali Linux Hydra Tool](https://allabouttesting.org/examples-of-kali-linux-hydra-tool/)|
 
 #### Application Layer Attacks
 
@@ -144,8 +142,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [John the Ripper](https://www.openwall.com/john/) | John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types.|  [Brute force attack with John the Ripper](https://medium.com/@sc015020/how-to-crack-passwords-with-john-the-ripper-fdb98449ff1)|
 | [L0phtCrack](https://www.l0phtcrack.com/) | L0phtCrack is a password audit and recovery program originally developed by Mudge from L0pht Heavy Industries. Using dictionaries, brute-force, hybrid attacks, and rainbow tables, it is used to test password strength and also to recover missing Microsoft Windows passwords.|  [Quick Start with the L0phtCrack 7](http://www.l0phtcrack.com/doc/QuickStartwiththeL0phtCrack7Wiza.html)|
 | [Rainbowcrack](http://project-rainbowcrack.com/) | RainbowCrack is a computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.|  [Brute force attack with Rainbowcrack](https://www.darknet.org.uk/2006/02/rainbowcrack-how-to-use-rainbow-crack-rainbow-tables/)|
-|[GoBuster](https://github.com/OJ/gobuster)| Gobuster is one of the most powerful and speed brute-force tools that doesn’t need a runtime. It uses a directory scanner programmed by Go language; it’s faster and more flexible than interpreted script.| [gobuster](https://github.com/OJ/gobuster)
-|[Brutex](https://github.com/1N3/BruteX) | BruteX is a great all-in-one brute force shell-based, and open-source tool for all your needs to reach the target.| [brutex](https://github.com/1N3/BruteX)
 
 #### Hybrid Dictionary Attack
 
@@ -200,12 +196,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/PiyumiThathsarani"><img src="https://avatars1.githubusercontent.com/u/58032088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>PiyumiThathsarani</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=PiyumiThathsarani" title="Documentation">📖</a> <a href="#example-PiyumiThathsarani" title="Examples">💡</a> <a href="#tutorial-PiyumiThathsarani" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/MS14-dev"><img src="https://avatars1.githubusercontent.com/u/54228656?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malindu Shamalka</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MS14-dev" title="Documentation">📖</a> <a href="#tutorial-MS14-dev" title="Tutorials">✅</a> <a href="#example-MS14-dev" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/Anne-98"><img src="https://avatars0.githubusercontent.com/u/58288067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anne Sudari</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Anne-98" title="Documentation">📖</a> <a href="#tutorial-Anne-98" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://github.com/smartsupun"><img src="https://avatars.githubusercontent.com/u/59835161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Supun Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=smartsupun" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/amila01"><img src="https://avatars.githubusercontent.com/u/57836010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amila de silva</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=amila01" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Dimuthu-10"><img src="https://avatars.githubusercontent.com/u/58289018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimuthu Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Dimuthu-10" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Dilshan1997"><img src="https://avatars.githubusercontent.com/u/48722230?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dilshan Madhuranga</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Dilshan1997" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/smartsupun"><img src="https://avatars.githubusercontent.com/u/59835161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Supun Lakshan</b></sub></a><br /><a href="#design-smartsupun" title="Design">🎨</a></td>
   </tr>
 </table>
 
