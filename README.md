@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -66,6 +66,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[W3af](http://w3af.org/)|This Pen Testing suite has been created by the software developers at Metasploit, and its main purpose is to find, ascertain, and exploit any Security weaknesses or holes in Web based applications. The results of the Pen Test are displayed in both easy to understand graphical and text based formats.|[W3af walkthrough and tutorial](https://resources.infosecinstitute.com/w3af-tutorial/)|
 |[Ettercap](https://project-rainbowcrack.com/)|The Ettercap suite is designed to prevent man in the middle attacks. Using this application, you will be able to build the packets you want and perform specific tasks. The software can send invalid frames and complete techniques which are more difficult through other options.|[Ettercap and middle-attacks tutorial](https://pentestmag.com/ettercap-tutorial-for-windows/)|
 |[Indusface WAS ](https://www.indusface.com/)|Indusface WAS provides both manual Penetration testing bundled with its own automated web application vulnerability scanner that detects and reports vulnerabilities based on OWASP top 10 and also includes a Website reputation check of links, malware and defacement checks of the website in every scan.|[How To Perform Web Application Security Testing Using AppTrana](https://www.softwaretestinghelp.com/apptrana-review-tutorial/)|
+|[IBM (formerly Watchfire and Santum) Appscan](http://yamm.finance/wiki/Rational_AppScan.html)|IBM Security AppScan, previously known as IBM Rational AppScan, is a family of web security testing and monitoring tools from the Rational Software division of IBM. AppScan is intended to test Web applications for security vulnerabilities during the development process, when it is least expensive to fix such problems. The product learns the behavior of each application, whether an off-the-shelf application or internally developed, and develops a program intended to test all of its functions for both common and application-specific vulnerabilities.|[How to use IBM Security AppScan](https://www.youtube.com/watch?v=tAFVsI1URz8&ab_channel=MuhammadImran)|
 
 
 #### White Box
@@ -92,6 +93,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[BBQSQL](https://github.com/CiscoCXSecurity/bbqsql)|BBQSQL is a blind SQL injection framework written in Python. It is extremely useful when attacking tricky SQL injection vulnerabilities. BBQSQL is also a semi-automatic tool, allowing quite a bit of customization for those hard to trigger SQL injection findings. The tool is built to be database agnostic and is extremely versatile. It also has an intuitive UI to make setting up attacks much easier. Python gevent is also implemented, making BBQSQL extremely fast.|[BBQSQL Package Documentation](https://tools.kali.org/vulnerability-analysis/bbqsql)|
 
 
+
 ## DDOS Attacks
 
 #### Volume-based Attacks
@@ -106,7 +108,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[aSYNCrone](https://github.com/fatihsnsy/aSYNcrone)| aSYNCrone is a tool fro making TCP SYN Flooding attack. A denial-of - service attack that exploits the three-way handshake used by TCP / IP to create a link is SYN flooding. Basically, by generating several half-open links, SYN flooding disables a targeted scheme. |[How To Perform TCP SYN Flood DOS Attack using Kali Linux](https://www.crackitdown.com/2019/12/perform-syn-flood-dos-attack-using-kali-linux.html)|
-|[XOIC](https://appnee.com/xoic/)| XOIC is another DOS attack tool with an IP address, a user-selected port, and a user-selected protocol. It is a GUI based tool that makes it easy to use for beginners. Developers of this tool claim that XOIC is more powerful than LOIC. |[Examples of Kali Linux Hydra Tool](https://allabouttesting.org/examples-of-kali-linux-hydra-tool/)|
 
 #### Application Layer Attacks
 
@@ -145,8 +146,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [John the Ripper](https://www.openwall.com/john/) | John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types.|  [Brute force attack with John the Ripper](https://medium.com/@sc015020/how-to-crack-passwords-with-john-the-ripper-fdb98449ff1)|
 | [L0phtCrack](https://www.l0phtcrack.com/) | L0phtCrack is a password audit and recovery program originally developed by Mudge from L0pht Heavy Industries. Using dictionaries, brute-force, hybrid attacks, and rainbow tables, it is used to test password strength and also to recover missing Microsoft Windows passwords.|  [Quick Start with the L0phtCrack 7](http://www.l0phtcrack.com/doc/QuickStartwiththeL0phtCrack7Wiza.html)|
 | [Rainbowcrack](http://project-rainbowcrack.com/) | RainbowCrack is a computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.|  [Brute force attack with Rainbowcrack](https://www.darknet.org.uk/2006/02/rainbowcrack-how-to-use-rainbow-crack-rainbow-tables/)|
-|[GoBuster](https://github.com/OJ/gobuster)| Gobuster is one of the most powerful and speed brute-force tools that doesn’t need a runtime. It uses a directory scanner programmed by Go language; it’s faster and more flexible than interpreted script.| [gobuster](https://github.com/OJ/gobuster)
-|[Brutex](https://github.com/1N3/BruteX) | BruteX is a great all-in-one brute force shell-based, and open-source tool for all your needs to reach the target.| [brutex](https://github.com/1N3/BruteX)
 
 #### Hybrid Dictionary Attack
 
@@ -201,12 +200,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/PiyumiThathsarani"><img src="https://avatars1.githubusercontent.com/u/58032088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>PiyumiThathsarani</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=PiyumiThathsarani" title="Documentation">📖</a> <a href="#example-PiyumiThathsarani" title="Examples">💡</a> <a href="#tutorial-PiyumiThathsarani" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/MS14-dev"><img src="https://avatars1.githubusercontent.com/u/54228656?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malindu Shamalka</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MS14-dev" title="Documentation">📖</a> <a href="#tutorial-MS14-dev" title="Tutorials">✅</a> <a href="#example-MS14-dev" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/Anne-98"><img src="https://avatars0.githubusercontent.com/u/58288067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anne Sudari</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Anne-98" title="Documentation">📖</a> <a href="#tutorial-Anne-98" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://github.com/smartsupun"><img src="https://avatars.githubusercontent.com/u/59835161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Supun Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=smartsupun" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/amila01"><img src="https://avatars.githubusercontent.com/u/57836010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amila de silva</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=amila01" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Dimuthu-10"><img src="https://avatars.githubusercontent.com/u/58289018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimuthu Lakshan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Dimuthu-10" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Dilshan1997"><img src="https://avatars.githubusercontent.com/u/48722230?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dilshan Madhuranga</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Dilshan1997" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/smartsupun"><img src="https://avatars.githubusercontent.com/u/59835161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Supun Lakshan</b></sub></a><br /><a href="#design-smartsupun" title="Design">🎨</a></td>
   </tr>
 </table>
 
