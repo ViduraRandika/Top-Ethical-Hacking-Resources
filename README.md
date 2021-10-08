@@ -141,6 +141,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [Hydra](https://github.com/vanhauser-thc/thc-hydra) | Hydra is a parallelized network logon cracker. Hydra works by using different approaches of generating possible passwords, such as wordlist attacks, brute-force attacks and others. | [Brute force attack with Hydra](https://medium.com/@gtrekter/brute-force-attack-with-hydra-and-kali-linux-3c4ede55d119)|
 | [Medusa](https://www.securedyou.com/medusa-free-download-parallel-password-cracker-tool/) | Medusa is an online password-cracking tool similar to THC Hydra. It claims to be a speedy parallel, modular and login brute-forcing tool. It supports HTTP, FTP, CVS, AFP, IMAP, MS SQL, MYSQL, NCP, NNTP, POP3, PostgreSQL, pcAnywhere, rlogin, SMB, rsh, SMTP, SNMP, SSH, SVN, VNC, VmAuthd and Telnet | [Medusa Parallel Network Login Auditor](http://foofus.net/goons/jmk/medusa/medusa.html)|
 
+
 #### Brute-Force Attack
 
 | Tool  | Description | Example / Tutorial (link) |
@@ -150,6 +151,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [L0phtCrack](https://www.l0phtcrack.com/) | L0phtCrack is a password audit and recovery program originally developed by Mudge from L0pht Heavy Industries. Using dictionaries, brute-force, hybrid attacks, and rainbow tables, it is used to test password strength and also to recover missing Microsoft Windows passwords.|  [Quick Start with the L0phtCrack 7](http://www.l0phtcrack.com/doc/QuickStartwiththeL0phtCrack7Wiza.html)|
 | [Rainbowcrack](http://project-rainbowcrack.com/) | RainbowCrack is a computer program that creates a rainbow table that can be used to crack a password. RainbowCrack differs from "conventional" brute force crackers in that it uses huge pre-computed tables called rainbow tables to reduce the time required to crack a password significantly.|  [Brute force attack with Rainbowcrack](https://www.darknet.org.uk/2006/02/rainbowcrack-how-to-use-rainbow-crack-rainbow-tables/)|
 | [Dirsearch](https://github.com/maurosoria/dirsearch) | Dirsearch is an advanced brute force tool based on a command line. It’s an AKA web path scanner and can brute force directories and files in webservers.Dirsearch recently becomes part of the official Kali Linux packages, but it also runs on Windows, Linux, and macOS. It’s written in Python to be easily compatible with existing projects and scripts.It’s also much faster than the traditional DIRB tool and contains many more features.|  [Brute force attack with Dirsearch](https://asciinema.org/a/380112)|
+| [Mask attack](https://hashcat.net/wiki/doku.php?id=mask_attack) | By incorporating part of the password that a hacker already knows in the attack, a mask attack minimizes the burden of a brute force attack. If a hacker knows your password is 10 characters long, for example, they can narrow down the assault to only those passwords.
+
+Mask attacks can be used to filter passwords based on specific words, numbers within a specified range, the user's preferred special characters, or any other password features the hacker is confident in. If any of your data is exposed, you become more vulnerable to a full-fledged data breach. | [Hachcat Mask Attack Tutorial](https://www.youtube.com%2Fwatch%3Fv%3DRiX0zfWHS9k&usg=AOvVaw0TcfmD3whLNgrcOj6eknBQ) |
 
 #### Hybrid Dictionary Attack
 
