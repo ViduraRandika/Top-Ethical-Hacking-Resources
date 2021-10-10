@@ -45,6 +45,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Wifiphisher](https://wifiphisher.org/)|Wifiphisher is a tool designed to perform man-in-the-middle attacks by exploiting Wi-Fi association. By convincing wireless users to connect to the rogue access point, Wifiphisher provides an attacker with the ability to intercept and monitor or modify their wireless traffic.| [How to use Wifiphisher](https://youtu.be/ay-77C9ZZQM)|
 |[inSSIDer](https://www.metageek.com/products/inssider/)|inSSIDer is a popular Wi-Fi scanner for Microsoft Windows and OS X operating systems. The inSSIDer wi-fi scanner can do various tasks, including finding open Wi-Fi access points, tracking signal strength and saving logs with GPS records.| [How to use inSSIDer](https://youtu.be/MLSITi0w0Bo)|
 |[CoWPAtty](https://tools.kali.org/wireless-attacks/cowpatty)|CoWPAtty is an automated dictionary attack tool for WPA-PSK. It runs on Linux OS. This program has a command-line interface and runs on a word list that contains the password to use in the attack.|[How to use CoWPAtty](https://youtu.be/GAuiXr8mwOE)|
+|[AirSnort](https://airsnort.soft112.com/)|AirSnort is free WiFi hacking software that captures the packets and tries to decrypt the keys. The monitoring is done in promiscuous mode and records enough packets to reliably decrypt the key. It is a simple tool and supports both Windows and Linux platforms.|[How to use AirSnort](https://www.youtube.com/watch?v=yTMaHf8byoo)|
 
 
 ## Pen Testing
