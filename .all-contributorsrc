@@ -217,3 +217,14 @@
   "repoHost": "https://github.com",
   "skipCi": true
 }
+
+{
+      "login": "MaheshaKandambi",
+      "name": "Mahesha Kandambi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58287739?v=4",
+      "profile": "https://github.com/MaheshaKandambi",
+      "contributions": [
+        "doc",
+        "tutorial",
+      ]
+    },
