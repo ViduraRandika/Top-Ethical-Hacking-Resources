@@ -74,7 +74,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Ettercap](https://project-rainbowcrack.com/)|The Ettercap suite is designed to prevent man in the middle attacks. Using this application, you will be able to build the packets you want and perform specific tasks. The software can send invalid frames and complete techniques which are more difficult through other options.|[Ettercap and middle-attacks tutorial](https://pentestmag.com/ettercap-tutorial-for-windows/)|
 |[Indusface WAS ](https://www.indusface.com/)|Indusface WAS provides both manual Penetration testing bundled with its own automated web application vulnerability scanner that detects and reports vulnerabilities based on OWASP top 10 and also includes a Website reputation check of links, malware and defacement checks of the website in every scan.|[How To Perform Web Application Security Testing Using AppTrana](https://www.softwaretestinghelp.com/apptrana-review-tutorial/)|
 |[IBM (formerly Watchfire and Santum) Appscan](http://yamm.finance/wiki/Rational_AppScan.html)|IBM Security AppScan, previously known as IBM Rational AppScan, is a family of web security testing and monitoring tools from the Rational Software division of IBM. AppScan is intended to test Web applications for security vulnerabilities during the development process, when it is least expensive to fix such problems. The product learns the behavior of each application, whether an off-the-shelf application or internally developed, and develops a program intended to test all of its functions for both common and application-specific vulnerabilities.|[How to use IBM Security AppScan](https://www.youtube.com/watch?v=tAFVsI1URz8&ab_channel=MuhammadImran)|
-
+|[Ranorex ](https://www.ranorex.com/)|Ranorex Ranorex Studio is a commercial Windows platform that provides testing for desktop, web, and mobile applications. It was launched in 2007 by Ranorex GmbH, an Austria-based software development firm.Ranorex does not require any additional scripting programs. It is built on the Microsoft.NET platform. Ranorex is compatible with the industry-standard programming languages C# and VB.NET, allowing for the editing of recordings and the creation of custom tests.|[How To use Ranorex](https://www.youtube.com/watch?v=b1Ofv_TekbY&list=PLttK-VXRJYjYmfIfgmMsKFcK3JSltS5wM)|
 
 #### White Box
 
@@ -231,4 +231,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
