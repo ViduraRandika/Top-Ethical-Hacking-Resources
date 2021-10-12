@@ -49,6 +49,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Fern Wifi Cracker](https://www.securedyou.com/fern-wifi-cracker-pro-free-download/)|Fern WiFi Cracker is a python based tool that can be used for WEP/WPA/WPA2 cracking, session hijacking, ARP request replays, and performing brute force attacks. It is able to save the key in the database on a successful attack. It is compatible with various Linux OS and can also be run on Windows 10 using virtualization.|[How to use Fern Wifi Cracker](https://www.youtube.com/watch?v=P6V1udhKLCY)|
 |[OmniPeek](https://www.bytesin.com/software/Download-OmniPeek-Personal/)|OmniPeek is a packet sniffer and a protocol analyzer tool. Developed by Savvis organization, It is available only for the Windows platform. The tool has a lot to offer if you have an understanding of the protocols.|[How to use OmniPeek](https://www.youtube.com/watch?v=Uhmv9rO_0fo)|
 |[Airgeddon](https://securityonline.info/airgeddon-one-wireless-toolkit/)|Airgeddon is one of the latest and advanced wireless hacking tools. Similar to other hacking solutions it is capable of switching your interface mode from “Monitor” to “Managed”. Its core purpose is to audit wireless networks by using multi-use bash scripts for Linux systems.|[How to use Airgeddon](https://www.youtube.com/watch?v=MUVDkXO8v5Q)|
+|[Yersinia](https://yersinia-multiattack-network-tool.soft112.com/)|Yersinia is an open-source wireless hacking software designed for Unix-like operating systems. This tool is capable of detecting susceptibilities in Layer 2 network protocols. It is a powerful tool for analyzing and testing the deployed wifi networks.|[How to use Yersinia](https://www.youtube.com/watch?v=dIPOXlUy7WE)|
+
 
 
 
