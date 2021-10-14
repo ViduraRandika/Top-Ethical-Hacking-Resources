@@ -50,6 +50,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[OmniPeek](https://www.bytesin.com/software/Download-OmniPeek-Personal/)|OmniPeek is a packet sniffer and a protocol analyzer tool. Developed by Savvis organization, It is available only for the Windows platform. The tool has a lot to offer if you have an understanding of the protocols.|[How to use OmniPeek](https://www.youtube.com/watch?v=Uhmv9rO_0fo)|
 |[Airgeddon](https://securityonline.info/airgeddon-one-wireless-toolkit/)|Airgeddon is one of the latest and advanced wireless hacking tools. Similar to other hacking solutions it is capable of switching your interface mode from “Monitor” to “Managed”. Its core purpose is to audit wireless networks by using multi-use bash scripts for Linux systems.|[How to use Airgeddon](https://www.youtube.com/watch?v=MUVDkXO8v5Q)|
 |[Yersinia](https://yersinia-multiattack-network-tool.soft112.com/)|Yersinia is an open-source wireless hacking software designed for Unix-like operating systems. This tool is capable of detecting susceptibilities in Layer 2 network protocols. It is a powerful tool for analyzing and testing the deployed wifi networks.|[How to use Yersinia](https://www.youtube.com/watch?v=dIPOXlUy7WE)|
+|[Reaver](https://www.kali.org/tools/reaver/)|Reaver is an open-source password-cracking tool.  It performs a brute-force attack against WPS to break the security of Wi-Fi networks.Reaver has been designed to be a robust and practical attack against WPS, and has been tested against a wide variety of access points and WPS implementations.|[How to use Reaver](https://www.youtube.com/watch?v=Skv-mYPoIig)|
 
 
 
@@ -112,6 +113,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [LOIC](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/) | Low Orbit Ion Cannon (LOIC) is a widely available, open-source application developed by Praetox Technologies used for network stress testing, as well as denial of service (DoS) and distributed denial of service (DDoS) attacks.It works by flooding a target server with TCP, UDP, or HTTP packets with the goal of disrupting service. | [Guide to use LOIC](https://vk9-sec.com/loic-dos-attacking-tool-guide/)|
 | [SYN flood](https://www.cloudflare.com/en-gb/learning/ddos/what-is-a-ddos-attack/) | LA SYN Flood is analogous to a worker in a supply room receiving requests from the front of the store.The worker receives a request, goes and gets the package, and waits for confirmation before bringing the package out front. The worker then gets many more package requests without confirmation until they can’t carry any more packages, become overwhelmed, and requests start going unanswered. | [Guide to use SYN flood](https://www.youtube.com/watch?v=tClcCMrXzek)|
+
 
 #### Protocol Attacks
 
