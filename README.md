@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -227,6 +227,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/banuka2001"><img src="https://avatars.githubusercontent.com/u/91893782?v=4?s=100" width="100px;" alt=""/><br /><sub><b>banuka2001</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=banuka2001" title="Documentation">📖</a> <a href="#tutorial-banuka2001" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/nirmani-1997"><img src="https://avatars.githubusercontent.com/u/67091419?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nirmani - 1997</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=nirmani-1997" title="Documentation">📖</a> <a href="#tutorial-nirmani-1997" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/MEKSankalpa"><img src="https://avatars.githubusercontent.com/u/66584748?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MEKSankalpa</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MEKSankalpa" title="Documentation">📖</a> <a href="#tutorial-MEKSankalpa" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/ThiliniErandi"><img src="https://avatars.githubusercontent.com/u/58288054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thilini Kumarawadu</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=ThiliniErandi" title="Documentation">📖</a> <a href="#tutorial-ThiliniErandi" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
