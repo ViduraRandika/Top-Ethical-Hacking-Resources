@@ -208,6 +208,26 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "MEKSankalpa",
+      "name": "MEKSankalpa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66584748?v=4",
+      "profile": "https://github.com/MEKSankalpa",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ThiliniErandi",
+      "name": "Thilini Kumarawadu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58288054?v=4",
+      "profile": "https://github.com/ThiliniErandi",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
