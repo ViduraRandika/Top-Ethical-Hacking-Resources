@@ -228,6 +228,16 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "maneeshhm",
+      "name": "Maneesh De Herath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29896563?v=4",
+      "profile": "https://github.com/maneeshhm",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
