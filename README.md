@@ -193,7 +193,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [metasploit](https://www.metasploit.com/) | Metasploit is a program that is pre-installed on all Kali Linux devices that allows you to produce custom payloads from the victim's device that will connect back to your device. The payload is our RAT in this situation. A hacker will build a payload using metasploit, save it to a file, and trick some innocent user by social engineering into clicking on it.| [How to Create a Trojan Virus in Kali Linux](https://livelinuxusb.com/create-trojan-virus-kali-linux/)|
 | [ArcBombs](https://www.prosense.net/en/products/calorimetry/arc-bombs/) | These Trojans represent special archives that are designed to behave abnormally when users try to unpack them. ArcBomb archives either freeze or seriously slow the system. Malicious archives use different techniques to achieve their goal. They may use malcrafted headers or corrupt data that lead to a malfunction of an archiver or an unpacking algorithm. They may also contain a heavyweight object that consists of identical, repeating data that can be packed into a small archive. For example, 10 GB of data is packed into a 400 KB archive.| [TROJAN-ARCBOMB](https://threats.kaspersky.com/en/class/Trojan-ArcBomb/)|
 
+## What is Buffer Overflow Attack?
+Buffers are memory storage regions that temporarily hold data while it is being transferred from one location to another. A buffer overflow (or buffer overrun) occurs when the volume of data exceeds the storage capacity of the memory buffer. As a result, the program attempting to write the data to the buffer overwrites adjacent memory locations.
 
+Attackers exploit buffer overflow issues by overwriting the memory of an application. This changes the execution path of the program, triggering a response that damages files or exposes private information. For example, an attacker may introduce extra code, sending new instructions to the application to gain access to IT systems.
 
 ## Contributors ✨
 
