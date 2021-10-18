@@ -186,6 +186,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 | [Ettercap](https://www.ettercap-project.org/) | Ettercap is a comprehensive suite for man in the middle attacks.It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis. | [Ettercap user mannual](https://miloserdov.org/?p=1772)|
+| [Morpheus](https://github.com/r00t-3xp10it/morpheus) | Morpheus it's a Man-In-The-Middle (mitm) suite that allows users to manipulate tcp/udp data using ettercap, urlsnarf, msgsnarf and tcpkill as backend applications. but this tool main objective its not to provide an easy way to exploit/sniff targets, but ratter a call of attemption to tcp/udp manipulations technics (etter filters) | [What is TCP/IP Hijacking?](https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_tcp_ip_hijacking.htm)|
 
 ## Trojan Attacks
 
