@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -142,7 +142,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 |[social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)|The Social-Engineer Toolkit (SET) is a social engineering open-source penetration testing platform. In a fraction of time, SET has a variety of custom attack vectors that allow you to make a credible attack. This kinds of instruments use human actions to lure the attack vectors into them.|[Let’s learn how to use the Social Engineer Toolkit.](https://www.tutorialspoint.com/kali_linux/kali_linux_social_engineering.htm)|
 |[ Watering hole](https://searchsecurity.techtarget.com/definition/watering-hole-attack)| A watering hole attack involves launching or downloading malicious code from a legitimate website, which is commonly visited by the targets of the attack. For example, attackers might compromise a financial industry news site, knowing that individuals who work in finance and thus represent an attractive target, are likely to visit this site. The compromised site typically installs a backdoor trojan that allows the attacker to compromise and remotely control the victim’s device.. |[infecting websites with malware that the targeted victims were likely to visit.](https://www.jigsawacademy.com/blogs/cyber-security/watering-hole-attack/)|
-|[Maltego](https://www.maltego.com/)| Maltego is an OSINT (open-source intelligence) investigation tool that shows how different pieces of information are interlinked. With Maltego, you can find relationships between people and various information assets, including email addresses, social profiles, screen names and other pieces of information that link a person to a service or organization. |[Maltego official tutorial.](https://www.maltego.com/categories/tutorial/)|
+|[Maltego toolkit](https://www.maltego.com/)|Maltego is an OSINT (open-source intelligence) analysis tool that visualizes the relationships between various pieces of information. Maltego enables you to discover associations between people and other types of information assets, such as email addresses, social profiles, screen names, and other identifiers that connect a person to a service or organization.|[Tutorial for Maltego - Automated Information Gathering.](https://www.youtube.com/watch?v=zemNLx0-LRw)|
 
 ## Password Hacking
 
@@ -195,7 +195,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | [metasploit](https://www.metasploit.com/) | Metasploit is a program that is pre-installed on all Kali Linux devices that allows you to produce custom payloads from the victim's device that will connect back to your device. The payload is our RAT in this situation. A hacker will build a payload using metasploit, save it to a file, and trick some innocent user by social engineering into clicking on it.| [How to Create a Trojan Virus in Kali Linux](https://livelinuxusb.com/create-trojan-virus-kali-linux/)|
 | [ArcBombs](https://www.prosense.net/en/products/calorimetry/arc-bombs/) | These Trojans represent special archives that are designed to behave abnormally when users try to unpack them. ArcBomb archives either freeze or seriously slow the system. Malicious archives use different techniques to achieve their goal. They may use malcrafted headers or corrupt data that lead to a malfunction of an archiver or an unpacking algorithm. They may also contain a heavyweight object that consists of identical, repeating data that can be packed into a small archive. For example, 10 GB of data is packed into a 400 KB archive.| [TROJAN-ARCBOMB](https://threats.kaspersky.com/en/class/Trojan-ArcBomb/)|
 
+## What is Buffer Overflow Attack?
+Buffers are memory storage regions that temporarily hold data while it is being transferred from one location to another. A buffer overflow (or buffer overrun) occurs when the volume of data exceeds the storage capacity of the memory buffer. As a result, the program attempting to write the data to the buffer overwrites adjacent memory locations.
 
+Attackers exploit buffer overflow issues by overwriting the memory of an application. This changes the execution path of the program, triggering a response that damages files or exposes private information. For example, an attacker may introduce extra code, sending new instructions to the application to gain access to IT systems.
 
 ## Contributors ✨
 
@@ -231,6 +234,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/nirmani-1997"><img src="https://avatars.githubusercontent.com/u/67091419?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nirmani - 1997</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=nirmani-1997" title="Documentation">📖</a> <a href="#tutorial-nirmani-1997" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/MEKSankalpa"><img src="https://avatars.githubusercontent.com/u/66584748?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MEKSankalpa</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=MEKSankalpa" title="Documentation">📖</a> <a href="#tutorial-MEKSankalpa" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/ThiliniErandi"><img src="https://avatars.githubusercontent.com/u/58288054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thilini Kumarawadu</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=ThiliniErandi" title="Documentation">📖</a> <a href="#tutorial-ThiliniErandi" title="Tutorials">✅</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/maneeshhm"><img src="https://avatars.githubusercontent.com/u/29896563?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Maneesh De Herath</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=maneeshhm" title="Documentation">📖</a> <a href="#tutorial-maneeshhm" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
