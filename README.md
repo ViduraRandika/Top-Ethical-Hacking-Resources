@@ -127,6 +127,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
 |[Slowloris](https://github.com/gkbrk/slowloris)|Slowloris is basically an HTTP Denial of Service attack that affects threaded servers.This exhausts the servers thread pool and the server can't reply to other people.|[Performing a genuine slowloris attack ](https://ourcodeworld.com/articles/read/962/performing-a-genuine-slowloris-attack-slowhttp-of-indefinite-length-in-kali-linux)|
+|[RUDY](https://www.softwaretestinghelp.com/ddos-attack-tools/#8_RUDY)|RUDY stands for R-U-Dead-Yet. This tool makes the attack using a long form field submission through POST method.It works at a very slow rate, hence it is time-consuming. Because of the slow rate, it can be detected as abnormal and can get blocked. | [R-u-dead-yet ](https://sourceforge.net/projects/r-u-dead-yet/)|
 
 
 #### External Penetration Testing
