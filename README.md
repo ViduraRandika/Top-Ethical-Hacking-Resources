@@ -121,6 +121,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 |[aSYNCrone](https://github.com/fatihsnsy/aSYNcrone)| aSYNCrone is a tool fro making TCP SYN Flooding attack. A denial-of - service attack that exploits the three-way handshake used by TCP / IP to create a link is SYN flooding. Basically, by generating several half-open links, SYN flooding disables a targeted scheme. |[How To Perform TCP SYN Flood DOS Attack using Kali Linux](https://www.crackitdown.com/2019/12/perform-syn-flood-dos-attack-using-kali-linux.html)|
 |[HULK](https://github.com/grafov/hulk)| HULK stands for HTTP Unbearable Load King. It is a DoS attack tool for the web server. It is created for research purposes. This tool targeted for stress testing and may really down badly configured server or badly made app. |[How to use HULK](https://allabouttesting.org/hulk-ddos-tool-complete-installation-usage-with-examples/)|
+|[Arbor Edge Defense](https://www.netscout.com/product/netscout-aed)| Arbor Edge Defense (AED) is an inline security appliance deployed at the network perimeter (i.e. between the internet router and firewall). AED’s unique position on the network edge, its stateless packet processing engine and the continuous reputation-based threat intelligence it receives from NETSCOUT’s ATLAS Threat Intelligence feed enable it to automatically detect and stop both inbound threats and outbound communication from internal compromised hosts – essentially acting as the first and last line of defense for organizations.
+ |[Best Practices Using Arbor Edge Defense](https://www.youtube.com/watch?v=2clJQEWxyt4)|
 
 #### Application Layer Attacks
 
