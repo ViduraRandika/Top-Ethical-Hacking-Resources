@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -253,6 +253,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/prabath-indrajith-599160197/"><img src="https://avatars.githubusercontent.com/u/57173720?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prabath Indrajith </b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Kobzpik" title="Documentation">📖</a> <a href="#tutorial-Kobzpik" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/nilupulmanodya"><img src="https://avatars.githubusercontent.com/u/57173445?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nilupul Manodya</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=nilupulmanodya" title="Documentation">📖</a> <a href="#tutorial-nilupulmanodya" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/IsuruSahan"><img src="https://avatars.githubusercontent.com/u/51040478?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IsuruSahan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=IsuruSahan" title="Documentation">📖</a> <a href="#tutorial-IsuruSahan" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/dananjayawickrama"><img src="https://avatars.githubusercontent.com/u/43751106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dananjaya</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=dananjayawickrama" title="Documentation">📖</a> <a href="#tutorial-dananjayawickrama" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
