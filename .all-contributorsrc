@@ -248,6 +248,36 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "Kobzpik",
+      "name": "Prabath Indrajith ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57173720?v=4",
+      "profile": "https://www.linkedin.com/in/prabath-indrajith-599160197/",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "nilupulmanodya",
+      "name": "Nilupul Manodya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57173445?v=4",
+      "profile": "https://github.com/nilupulmanodya",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "IsuruSahan",
+      "name": "IsuruSahan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51040478?v=4",
+      "profile": "https://github.com/IsuruSahan",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,

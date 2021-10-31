@@ -1,6 +1,6 @@
 # Top-Ethical-Hacking-Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Stay up-to-date with the latest and greatest ethical hacking resources.
 
@@ -35,7 +35,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | Tool  | Description | Example / Tutorial (link) |
 | ----- | ----------- |---------------------------|
-| [Kismet](https://www.kismetwireless.net/) | Kismet is a powerful tool for wireless sniffing that is found in Kali distribution | [How to use kismet](https://null-byte.wonderhowto.com/how-to/use-kismet-watch-wi-fi-user-activity-through-walls-0182214/)|
+| [Kismet](https://www.kismetwireless.net/) | Kismet is a powerful tool for wireless sniffing that is found in Kali distribution. Kismet works with Wi-Fi interfaces, Bluetooth interfaces, some SDR (software defined radio) hardware like the RTLSDR, and other specialized capture hardware.| [How to use kismet](https://null-byte.wonderhowto.com/how-to/use-kismet-watch-wi-fi-user-activity-through-walls-0182214/)|
 |[WireShark](https://www.wireshark.org/)|Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level |[How to use Wireshark](https://youtu.be/TkCSr30UojM)|
 | [Aircrack](http://www.aircrack-ng.org/) | Aircrack is one of the most popular wireless passwords cracking tools which you can use for 802.11a/b/g WEP and WPA cracking. Aircrack uses the best algorithms to recover wireless passwords by capturing packets. | [How to use Aircrack](https://www.aircrack-ng.org/doku.php?id=cracking_wpa/)|
 | [CloudCracker](https://crack.sh/) |CloudCracker is the online password cracking tool for cracking WPA protected wi-fi networks. This tool can also be used to crack different password hashes. | [How to use CloudCracker](https://crack.sh/get-cracking/)|
@@ -76,6 +76,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[Indusface WAS ](https://www.indusface.com/)|Indusface WAS provides both manual Penetration testing bundled with its own automated web application vulnerability scanner that detects and reports vulnerabilities based on OWASP top 10 and also includes a Website reputation check of links, malware and defacement checks of the website in every scan.|[How To Perform Web Application Security Testing Using AppTrana](https://www.softwaretestinghelp.com/apptrana-review-tutorial/)|
 |[IBM (formerly Watchfire and Santum) Appscan](http://yamm.finance/wiki/Rational_AppScan.html)|IBM Security AppScan, previously known as IBM Rational AppScan, is a family of web security testing and monitoring tools from the Rational Software division of IBM. AppScan is intended to test Web applications for security vulnerabilities during the development process, when it is least expensive to fix such problems. The product learns the behavior of each application, whether an off-the-shelf application or internally developed, and develops a program intended to test all of its functions for both common and application-specific vulnerabilities.|[How to use IBM Security AppScan](https://www.youtube.com/watch?v=tAFVsI1URz8&ab_channel=MuhammadImran)|
 |[Ranorex](https://www.ranorex.com/)|Ranorex Ranorex Studio is a commercial Windows platform that provides testing for desktop, web, and mobile applications. It was launched in 2007 by Ranorex GmbH, an Austria-based software development firm.Ranorex does not require any additional scripting programs. It is built on the Microsoft.NET platform. Ranorex is compatible with the industry-standard programming languages C# and VB.NET, allowing for the editing of recordings and the creation of custom tests.|[How To use Ranorex](https://www.youtube.com/watch?v=b1Ofv_TekbY&list=PLttK-VXRJYjYmfIfgmMsKFcK3JSltS5wM)|
+|[Nessus](https://www.tenable.com/products/nessus/)|An open-source online vulnerability and configuration scanner for IT infrastructure.Nessus is a remote security scanning tool, which scans a computer and raises an alert if it discovers any vulnerabilities that malicious hackers could use to gain access to any computer connected to a network.|[How To use Nessus](https://www.youtube.com/watch?v=x87gbgQD4eg)|
 
 #### White Box
 
@@ -83,8 +84,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | ----- | ----------- |---------------------------|
 | [Veracode](https://www.veracode.com/) | Veracode’s white box testing tools will help you in identifying and resolving the software flaws quickly and easily at a reduced cost. It supports several application languages like .NET, C++, JAVA etc and also enables you to test the security of desktop, web as well as mobile applications. | [Getting Started to use Veracode](https://help.veracode.com/reader/kJC1iOtXp8N~rCtV8P9jhw/iSZSa4HHNIlkYx3q9W08Xg)|
 | [EclEmma](https://www.eclemma.org/) | EclEmma was initially designed for test runs and analysis within the Eclipse workbench. It is considered to be a free Java code coverage tool and has several features as well.| [Getting Started to use EclEmma](https://www.eclemma.org/index.html)|
-| [RCUNIT](https://sourceforge.net/projects/rcunit/) | A framework which is used for testing C programs is known as RCUNIT. RCUNIT can be used accordingly based on the terms of the MIT License.| [Getting Started to use RCUNIT](https://github.com/jecklgamis/rcunit)|
+| [RCUNIT](https://sourceforge.net/projects/rcunit/) | A framework which is used for testing C programs is known as RCUNIT. RCUNIT can be used accordingly based on the terms of the MIT License. RCUNIT is a small framework for testing C programs. It uses non-local jumps to emulate exceptions and handles program terminating signals (e.g. SIGILL) during test runs. RCUNIT allows creation of test fixtures, either per test or per test group.| [Getting Started to use RCUNIT](https://github.com/jecklgamis/rcunit)|
 | [cfix](https://sourceforge.net/projects/cfix/files/latest/download) | cfix is one of the unit testing frameworks for C/C++ which solely aims at making test suites development as simple and easy as possible. Meanwhile, cfix is typically specialized for NT Kernel mode and Win32.| [Getting Started to use cfix](https://github.com/jpassing/cfix)|
+| [NUnit](https://nunit.org/) | NUnit is a unit-testing framework for all .Net languages. Initially ported from JUnit, the current production release, version 3, has been completely rewritten with many new features and support for a wide range of .NET platforms.| [Getting Started to use NUnit](https://nunit.org/)|
 
 ## SQL Injection
 
@@ -123,6 +125,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[HULK](https://github.com/grafov/hulk)| HULK stands for HTTP Unbearable Load King. It is a DoS attack tool for the web server. It is created for research purposes. This tool targeted for stress testing and may really down badly configured server or badly made app. |[How to use HULK](https://allabouttesting.org/hulk-ddos-tool-complete-installation-usage-with-examples/)|
 |[Arbor Edge Defense](https://www.netscout.com/product/netscout-aed)| Arbor Edge Defense (AED) is an inline security appliance deployed at the network perimeter (i.e. between the internet router and firewall). AED’s unique position on the network edge, its stateless packet processing engine and the continuous reputation-based threat intelligence it receives from NETSCOUT’s ATLAS Threat Intelligence feed enable it to automatically detect and stop both inbound threats and outbound communication from internal compromised hosts – essentially acting as the first and last line of defense for organizations.
  |[Best Practices Using Arbor Edge Defense](https://www.youtube.com/watch?v=2clJQEWxyt4)|
+|[XOIC](https://www.softwaretestinghelp.com/ddos-attack-tools/#8_RUDY)| XOIC is another nice DoS attacking tool. It performs a DoS attack an any server with an IP address, a user-selected port, and a user-selected protocol. In many ways, XOIC's developers claim, XOIC is more powerful than LOIC. It, like LOIC, has a user-friendly interface, so even a novice can use it to launch attacks against other websites or servers. |[XOIC DDoS tool download](http://anonhacktivism.blogspot.com/2017/11/new-xoic-ddos-tool-download.html)|
+
 
 #### Application Layer Attacks
 
@@ -244,6 +248,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/maneeshhm"><img src="https://avatars.githubusercontent.com/u/29896563?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Maneesh De Herath</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=maneeshhm" title="Documentation">📖</a> <a href="#tutorial-maneeshhm" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/Thimira97"><img src="https://avatars.githubusercontent.com/u/57099397?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thimira Madusanka</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Thimira97" title="Documentation">📖</a> <a href="#tutorial-Thimira97" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/prabath-indrajith-599160197/"><img src="https://avatars.githubusercontent.com/u/57173720?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prabath Indrajith </b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=Kobzpik" title="Documentation">📖</a> <a href="#tutorial-Kobzpik" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/nilupulmanodya"><img src="https://avatars.githubusercontent.com/u/57173445?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nilupul Manodya</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=nilupulmanodya" title="Documentation">📖</a> <a href="#tutorial-nilupulmanodya" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/IsuruSahan"><img src="https://avatars.githubusercontent.com/u/51040478?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IsuruSahan</b></sub></a><br /><a href="https://github.com/ViduraRandika/Top-Ethical-Hacking-Resources/commits?author=IsuruSahan" title="Documentation">📖</a> <a href="#tutorial-IsuruSahan" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
