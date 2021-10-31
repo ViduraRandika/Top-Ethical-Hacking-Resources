@@ -278,6 +278,16 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "dananjayawickrama",
+      "name": "Dananjaya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43751106?v=4",
+      "profile": "https://github.com/dananjayawickrama",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
